@@ -1,0 +1,180 @@
+﻿Ville;pays;adresse_full;Latitude;Longitude;participants_syndicats;source_syndicats;participants_police;participants_presse;source_presse;description_libre;lien
+Paris;France;Paris France;48.856614;2.3522219;400000;CGT;;;;;
+Marseille;France;Marseille France;43.296482;5.36978;180000;intersyndicale;15000;;;;https://www.laprovence.com/article/region/1678250756559116/direct-laprovence-reforme-des-retraites-des-transports-perturbes-une-mobilisation-dans-toute-la-region-notre-direct
+Lyon;France;Lyon France;45.764043;4.835659;30000;intersyndicale;10700;;Le Progrès;;https://www.leprogres.fr/social/2023/02/07/troisieme-journee-de-mobilisation-contre-la-reforme-des-retraites-suivez-la-manifestation-a-lyon
+Toulouse;France;Toulouse France;43.604652;1.444209;80000;intersyndicale;25000;;;;https://www.midilibre.fr/2023/02/07/direct-perturbations-sncf-rendez-vous-des-manifestants-suivez-la-mobilisation-contre-la-reforme-des-retraites-10980721.php
+Nice;France;Nice France;43.7101728;7.2619532;20000;CGT;7000;;;;https://www.nicematin.com/social/greve-contre-la-reforme-des-retraites-la-mobilisation-toujours-importante-a-nice-le-cortege-se-forme-a-toulon-suivez-la-journee-en-direct-826489
+Nantes;France;Nantes France;47.218371;-1.553621;45000;CFDT;;23000;Ouest-France;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-suivez-les-manifestations-en-france-7cc79c30-a62c-11ed-acf1-1f171930b7f8
+Strasbourg;France;Strasbourg France;48.5734053;7.7521113;16000;CGT;7000;;Dernières nouvelles d'Alsace;;https://www.dna.fr/social/2023/02/07/le-bas-rhin-se-mobilise-a-nouveau-contre-la-reforme-des-retraites
+Montpellier;France;Montpellier France;43.610769;3.876716;20000;intersyndicale;11000;;;;https://www.midilibre.fr/2023/02/07/direct-greve-du-7-fevrier-contre-la-reforme-des-retraites-a-montpellier-10980995.php | https://www.centrepresseaveyron.fr/2023/02/07/greve-du-7-fevrier-suivez-notre-direct-de-la-troisieme-journee-de-greve-contre-la-reforme-des-retraites-10980843.php
+Bordeaux;France;Bordeaux France;44.837789;-0.57918;50000;;9500;;;;https://actu.fr/nouvelle-aquitaine/bordeaux_33063/greve-du-7-fevrier-a-bordeaux-suivez-la-manifestation-contre-la-reforme-des-retraites_57166531.html
+Rennes;France;Rennes France;48.117266;-1.6777926;25000;;15000;;;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-les-manifestations-a-rennes-saint-malo-7dc77572-a62e-11ed-acf1-1f171930b7f8
+Le Havre;France;Le Havre France;49.49437;0.107929;40000;;12300;;;;https://actu.fr/normandie/le-havre_76351/reforme-des-retraites-des-blocages-et-des-ralentissements-ce-matin-au-havre_57173798.html
+Reims;France;Reims France;49.258329;4.031696;6000;;;;;;https://www.lunion.fr/id453970/article/2023-02-07/manifestants-reims-contre-la-reforme-des-retraites
+Lille;France;Lille France;50.62925;3.057256;70000;;9500;;;;https://www.lemonde.fr/politique/live/2023/02/07/manifestation-du-7-fevrier-contre-la-reforme-des-retraites-en-direct-le-cortege-parisien-part-de-la-place-de-l-opera_6160804_823448.html
+Saint-Etienne;France;Saint-Etienne France;45.439695;4.3871779;20000;intersyndicale;6200;;;;https://www.leprogres.fr/social/2023/02/07/reforme-des-retraites-saint-etienne-et-roanne-se-mobilisent-pour-la-3e-journee
+Toulon;France;Toulon France;43.124228;5.928;;;5000;;;;https://www.varmatin.com/social/greve-contre-la-reforme-des-retraites-un-manifestant-et-un-journaliste-pris-a-partie-a-nice-la-manifestation-se-poursuit-a-toulon-suivez-la-journee-en-direct-826489
+Grenoble;France;Grenoble France;45.188529;5.724524;27000;intersyndicale;;;Le Dauphiné Libéré;;https://www.ledauphine.com/social/2023/02/07/greves-et-manifestations-en-isere-suivez-la-mobilisation-contre-la-reforme-des-retraites-de-ce-mardi-7-janvier
+Angers;France;Angers France;47.4711616;-0.5518257;9000;intersyndicale;6500;;;;https://www.angers.villactu.fr/reforme-des-retraites-malgre-une-mobilisation-en-baisse-a-angers-les-manifestants-restent-determines/
+Brest;France;Brest France;48.390394;-4.486076;;;;16000;Ouest-France;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-les-manifestations-a-brest-quimper-morlaix-72ea3ad6-a62e-11ed-acf1-1f171930b7f8
+Le Mans;France;Le Mans France;48.00611;0.199556;15000;;6700;;Ouest France;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-les-manifestations-au-mans-sable-la-fleche-319afee8-a639-11ed-acf1-1f171930b7f8
+Dijon;France;Dijon France;47.322047;5.04148;13000;CGT;6000;;;;https://www.bienpublic.com/social/2023/02/07/troisieme-journee-de-greve-contre-la-reforme-des-retraites-des-manifestations-a-dijon-beaune-et-montbard
+Aix-en-Provence;France;Aix-en-Provence France;43.529742;5.447427;;;;;;;
+Clermont-Ferrand;France;Clermont-Ferrand France;45.777222;3.087025;15000;intersyndicale;9200;;;;https://www.lamontagne.fr/clermont-ferrand-63000/actualites/reforme-des-retraites-suivez-en-direct-la-journee-de-mobilisation-en-auvergne-et-dans-le-limousin_14258492/
+Nîmes;France;Nîmes France;43.836699;4.360054;20000;intersyndicale;4000;;;;https://www.midilibre.fr/2023/02/07/reforme-des-retraites-suivez-notre-direct-de-la-manifestation-departementale-a-nimes-10981229.php
+Amiens;France;Amiens France;49.894067;2.295753;12000;CGT;4500;;;8 000 selon les manifestants;https://www.aisnenouvelle.fr/id386074/article/2023-02-07/hauts-de-france-suivez-en-direct-la-troisieme-journee-de-mobilisation-contre-la#
+Besançon;France;Besançon France;47.237829;6.0240539;9850;CGT;;;;9850 selon la CGT;https://www.macommune.info/retraites-9-850-manifestants-a-besancon-selon-la-cgt/
+Caen;France;Caen France;49.182863;-0.370679;20000;;13200;;;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-les-manifestations-a-caen-lisieux-bayeux-vire-11692e08-a623-11ed-acf1-1f171930b7f8
+Orléans;France;Orléans France;47.902964;1.909251;20000;;7500;;La République du Centre;;https://www.larep.fr/orleans-45000/actualites/suivez-la-troisieme-journee-de-mobilisation-contre-la-reforme-des-retraites-dans-le-loiret_14258618/
+Perpignan;France;Perpignan France;42.6886591;2.8948332;7000;;4000;;;;https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/direct-greve-du-7-fevrier-contre-la-reforme-des-retraites-suivez-les-manifestations-a-montpellier-nimes-perpignan-ales-2709462.html
+Rouen;France;Rouen France;49.443232;1.099971;15000;intersyndicale;8700;;Paris Normandie;;https://www.paris-normandie.fr/id386225/article/2023-02-07/manifestation-contre-la-reforme-des-retraites-rouen-en-repli-la-mobilisation
+Mamoudzou;France;Mamoudzou France;-12.78064;45.2326964;300;;;;La Première Mayotte;300 selon les syndicats;https://la1ere.francetvinfo.fr/mayotte/mobilisation-en-baisse-pour-ce-troisieme-rendez-vous-contre-la-reforme-des-retraites-1364422.html
+Saint-Denis, La Réunion;France;Saint-Denis, La Réunion France;-20.8906596;55.4550536;;;2000;;La Première Réunion;2000 selon les forces de l'ordre;https://la1ere.francetvinfo.fr/reunion/troisieme-jour-de-mobilisation-contre-la-reforme-des-retraites-les-manifestants-bien-que-moins-nombreux-ne-veulent-rien-lacher-1364418.html
+Basse-Terre, Guadeloupe;France;Basse-Terre, Guadeloupe France;15.9965719;-61.7317215;;;;;;;
+Fort-de-France, Martinique;France;Fort-de-France, Martinique France;14.6060576;-61.069884;;;;;;;
+Cayenne, Guyane;France;Cayenne, Guyane France;4.9379774;-52.3354386;;;;;;;
+Dunkerque;France;Dunkerque France;51.0343684;2.3767763;;;3500;;;;
+Saint-Nazaire;France;Saint-Nazaire France;47.2734979;-2.213848;15000;CGT;10200;;;;https://france3-regions.francetvinfo.fr/pays-de-la-loire/reforme-des-retraites-troisieme-journee-de-mobilisation-2709534.html
+Bourges;France;Bourges France;47.081012;2.398782;;;;;;;
+Valence;France;Valence France;44.933393;4.89236;17500;;4500;;;15 000 selon FO, 20 000 selon la CGT;https://www.francebleu.fr/infos/politique/reforme-des-retraites-dix-nouvelles-manifestations-ce-7-fevrier-en-drome-et-ardeche-5379162
+Alençon;France;Alençon France;48.432856;0.091266;3500;;3000;;;3500 selon les syndicats, un peu moins de 3 000 selon la police;https://actu.fr/normandie/alencon_61001/alencon-reforme-des-retraites-la-mobilisation-ne-faiblit-pas_57183982.html
+Guéret;France;Guéret France;46.169599;1.871452;;;;2900;France Bleu;;https://www.francebleu.fr/infos/societe/creuse-nouvelle-journee-de-mobilisation-contre-la-reforme-des-retraites-5586171
+Alès;France;Alès France;44.127204;4.083352;5000;;3000;;;;Le Monde 
+Bagnols-sur-Cèze;France;Bagnols-sur-Cèze France;44.16252;4.620075;3500;intersyndicale;;1200;Midi libre;;https://www.midilibre.fr/2023/02/07/direct-perturbations-sncf-rendez-vous-des-manifestants-suivez-la-mobilisation-contre-la-reforme-des-retraites-10980721.php
+Tulle;France;Tulle France;45.26565;1.771697;8000;intesyndicale;2500;;La Montagne;;https://www.lamontagne.fr/clermont-ferrand-63000/actualites/reforme-des-retraites-suivez-en-direct-la-journee-de-mobilisation-en-auvergne-et-dans-le-limousin_14258492/
+Coutances;France;Coutances France;49.047808;-1.4452609;1500;intersyndicale;;;Ouest France;;https://www.ouest-france.fr/economie/retraites/direct-reformes-des-retraites-suivez-les-manifestations-a-cherbourg-et-saint-lo-567b2632-a631-11ed-acf1-1f171930b7f8
+Saintes;France;Saintes France;45.744175;-0.633389;;;;2500;Sud Ouest;;https://www.sudouest.fr/charente-maritime/la-rochelle/greve-contre-la-reforme-des-retraites-en-charente-maritime-2-500-manifestants-a-saintes-13970570.php
+Quimper;France;Quimper France;47.997542;-4.097899;15000;intersyndicale;6100;10000;Ouest France;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-les-manifestations-a-brest-quimper-morlaix-72ea3ad6-a62e-11ed-acf1-1f171930b7f8
+Cholet;France;Cholet France;47.059407;-0.879787;;;3000;;;;https://france3-regions.francetvinfo.fr/pays-de-la-loire/reforme-des-retraites-troisieme-journee-de-mobilisation-2709534.html
+Saumur;France;Saumur France;47.260135;-0.080893;;;2000;;;;https://france3-regions.francetvinfo.fr/pays-de-la-loire/reforme-des-retraites-troisieme-journee-de-mobilisation-2709534.html
+Niort;France;Niort France;46.323716;-0.464777;7000;intersyndicale;3900;;;;https://www.lanouvellerepublique.fr/niort/deux-sevres-mobilisation-contre-la-reforme-des-retraites-acte-3
+Lisieux;France;Lisieux France;49.145922;0.227849;2000;;1850;;;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-les-manifestations-a-caen-lisieux-bayeux-vire-11692e08-a623-11ed-acf1-1f171930b7f8
+Granville;France;Granville France;48.837579;-1.597302;1000;;;;;;https://www.francebleu.fr/infos/economie-social/direct-retraites-suivez-le-3e-round-de-mobilisation-dans-la-manche-5438346
+Saint-Lô;France;Saint-Lô France;49.1154686;-1.0828136;2000;;1700;;;;https://www.ouest-france.fr/economie/retraites/direct-reformes-des-retraites-suivez-les-manifestations-a-cherbourg-et-saint-lo-567b2632-a631-11ed-acf1-1f171930b7f8
+Laval;France;Laval France;48.0785146;-0.7669906;8000;intersyndicale;4800;;Ouest France;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-suivez-la-manifestation-a-laval-218c71f0-a628-11ed-acf1-1f171930b7f8
+Dieppe;France;Dieppe France;49.922992;1.077483;4000;intersyndicale;2800;;Paris Normandie;;https://www.paris-normandie.fr/id386183/article/2023-02-07/reforme-des-retraites-manifestation-dieppe-un-3e-round-moins-suivi-mais-des
+Thouars;France;Thouars France;46.976154;-0.216803;1100;intersyndicale;;;;;https://www.lanouvellerepublique.fr/niort/deux-sevres-mobilisation-contre-la-reforme-des-retraites-acte-3
+Saint-Malo;France;Saint-Malo France;48.649337;-2.025674;2500;intersyndicale;2300;;;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-les-manifestations-a-rennes-saint-malo-7dc77572-a62e-11ed-acf1-1f171930b7f8
+Ancenis;France;Ancenis France;47.365464;-1.177491;5000;;2500;;;;https://france3-regions.francetvinfo.fr/pays-de-la-loire/reforme-des-retraites-troisieme-journee-de-mobilisation-2709534.html
+Privas;France;Privas France;44.735269;4.599039;;;1200;;;;https://www.francebleu.fr/infos/politique/reforme-des-retraites-dix-nouvelles-manifestations-ce-7-fevrier-en-drome-et-ardeche-5379162
+Périgueux;France;Périgueux France;45.184029;0.7211149;6000;CGT;;;;;https://www.francebleu.fr/infos/economie-social/direct-suivez-les-manifestations-contre-la-reforme-des-retraites-en-dordogne-5960349
+Avignon;France;Avignon France;43.949317;4.805528;15000;intersyndicale;4200;;;;https://www.francebleu.fr/infos/economie-social/videos-reforme-des-retraites-legere-baisse-de-la-mobilisation-a-avignon-pour-l-acte-iii-5279757
+Argentan;France;Argentan France;48.744001;-0.016566;;;1200;;;;https://actu.fr/normandie/argentan_61006/reforme-des-retraites-a-argentan-la-mobilisation-reste-importante-le-mardi-7-fevrier_57199367.html
+Tours;France;Tours France;47.394144;0.68484;10000;;8200;;;;https://www.lanouvellerepublique.fr/tours/tours-coup-d-envoi-de-la-troisieme-journee-de-mobilisation-contre-la-reforme-des-retraites
+Châteauroux;France;Châteauroux France;46.811434;1.686779;8000;intersyndicale;6500;;La Nouvelle République;;https://www.lanouvellerepublique.fr/indre/retraites-entre-7-000-et-8-000-manifestants-a-chateauroux-selon-les-syndicats
+Vierzon;France;Vierzon France;47.221438;2.069791;;;;;;;
+Angoulême;France;Angoulême France;45.648377;0.1562369;8000;intersyndicale;5000;;;;https://www.charentelibre.fr/france/social/retraites-les-manifestants-angoumoisins-en-place-live-13968924.php
+Verdun;France;Verdun France;49.1598764;5.3844231;;;3700;;France 3;;https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/reforme-des-retraites-combien-de-manifestants-a-nancy-metz-epinal-verdun-bar-le-duc-et-saint-die-des-vosges-ce-7-fevrier-2709538.html
+Belfort;France;Belfort France;47.639674;6.863849;;;;;;;
+Bourgoin-Jallieu;France;Bourgoin-Jallieu France;45.597108;5.27212;3000;intersyndicale;2500;;Le Dauphiné libéré;;https://www.ledauphine.com/social/2023/02/07/greves-et-manifestations-en-isere-suivez-la-mobilisation-contre-la-reforme-des-retraites-de-ce-mardi-7-janvier
+Lannion;France;Lannion France;48.732084;-3.459144;7000;;4000;;;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-les-manifestations-a-st-brieuc-lannion-dinan-ef461b16-a63f-11ed-acf1-1f171930b7f8
+Pau;France;Pau France;43.2951;-0.370797;11000;;7000;; ;;https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/greve-du-7-fevrier-contre-la-reforme-des-retraites-des-milliers-de-manifestants-en-aquitaine-2709642.html
+Tarbes;France;Tarbes France;43.232951;0.078082;10000;intersyndicale;5800;;;;https://www.centrepresseaveyron.fr/2023/02/07/greve-du-7-fevrier-suivez-notre-direct-de-la-troisieme-journee-de-greve-contre-la-reforme-des-retraites-10980843.php
+Abbeville;France;Abbeville France;50.105467;1.836833;;;;2000;Courrier picard;;https://www.courrier-picard.fr/id386255/article/2023-02-07/abbeville-la-foule-est-toujours-dans-la-rue-contre-la-reforme-des-retraites
+Mulhouse;France;Mulhouse France;47.750839;7.335888;4500;CFDT;3500;;L'Alsace;;https://www.lalsace.fr/politique/2023/02/07/haut-rhin-troisieme-mobilisation-contre-la-reforme-des-retraites
+Bayonne;France;Bayonne France;43.492949;-1.474841;12000;;7000;;;;https://www.sudouest.fr/economie/social/video-greve-du-7-fevrier-a-bayonne-les-manifestants-sont-de-nouveau-nombreux-a-defiler-13970012.php
+Agen;France;Agen France;44.203142;0.616363;3000;intersyndicale;2350;;;;https://www.sudouest.fr/economie/reforme-des-retraites/greve-du-7-fevrier-a-agen-quelle-mobilisation-pour-ce-troisieme-tour-13968984.php
+Mont-de-Marsan;France;Mont-de-Marsan France;43.893485;-0.499782;4000;intersyndicale;3000;;Sud Ouest;;https://www.sudouest.fr/economie/reforme-des-retraites/greve-du-7-fevrier-dans-les-landes-vers-une-mobilisation-plus-forte-qu-au-mois-de-janvier-13969158.php
+Vesoul;France;Vesoul France;47.619788;6.15428;2500;;2300;;;;https://www.estrepublicain.fr/social/2023/02/07/greve-contre-la-reforme-des-retraites-suivez-la-journee-de-mobilisation-du-7-fevrier-en-franche-comte
+Valenciennes;France;Valenciennes France;50.357113;3.518332;10000;CGT;;;;;
+Douai;France;Douai France;50.367874;3.080602;5500;CGT;;3500;La Voix du Nord;;https://www.lavoixdunord.fr/1288552/article/2023-02-07/direct-retraites-3e-journee-de-manifestation-dans-la-rue-les-syndicats-esperent
+Cambrai;France;Cambrai France;50.173538;3.236633;;;;;;;
+Arras;France;Arras France;50.291002;2.777535;;;;3750;La Voix du Nord;;https://www.lavoixdunord.fr/1288552/article/2023-02-07/direct-retraites-3e-journee-de-manifestation-dans-la-rue-les-syndicats-esperent
+Calais;France;Calais France;50.95129;1.858686;6000;intersyndicale;4000;;;; 
+Boulogne-sur-Mer;France;Boulogne-sur-Mer France;50.725231;1.613334;4500;intersyndicale;2600;;;;
+Bar-le-Duc;France;Bar-le-Duc France;48.773605;5.158238;;;1300;;;;https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/reforme-des-retraites-combien-de-manifestants-a-nancy-metz-epinal-verdun-bar-le-duc-et-saint-die-des-vosges-ce-7-fevrier-2709538.html
+Limoges;France;Limoges France;45.833619;1.261105;20000;;5500;;;;https://www.lepopulaire.fr/limoges-87000/actualites/mobilisation-du-7-fevrier-contre-la-reforme-des-retraites-suivez-la-manifestation-de-limoges-en-direct_14259050/
+Vannes;France;Vannes France;47.658236;-2.760847;;;;4000;Ouest-France;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-suivez-les-manifestations-a-lorient-vannes-2a7b549e-a627-11ed-acf1-1f171930b7f8
+Béziers;France;Béziers France;43.344233;3.215795;5000;;2000;;;;https://www.midilibre.fr/2023/02/07/direct-greve-du-7-fevrier-contre-la-reforme-des-retraites-a-montpellier-10980995.php
+Sète;France;Sète France;43.4078758;3.7008219;2000;intersyndicale;1600;;;;https://www.midilibre.fr/2023/02/07/direct-greve-du-7-fevrier-contre-la-reforme-des-retraites-a-montpellier-10980995.php
+Saint-Brieuc;France;Saint-Brieuc France;48.51418;-2.765835;10000;;5000;;;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-les-manifestations-a-st-brieuc-lannion-dinan-ef461b16-a63f-11ed-acf1-1f171930b7f8
+La Rochelle;France;La Rochelle France;46.160329;-1.151139;;;;7000;Sud Ouest;;https://www.sudouest.fr/charente-maritime/la-rochelle/greve-du-7-fevrier-entre-6-000-et-8-000-personnes-a-la-rochelle-13974562.php
+Rochefort;France;Rochefort France;45.936698;-0.961697;;;;3000;Sud Ouest;;https://www.sudouest.fr/charente-maritime/la-rochelle/greve-contre-la-reforme-des-retraites-en-charente-maritime-2-500-manifestants-a-saintes-13970570.php
+Epinal;France;Epinal France;48.172402;6.449403;6000;;3700;;;;https://www.vosgesmatin.fr/social/2023/02/07/reforme-des-retraites-a-epinal-plusieurs-milliers-de-manifestants-pour-la-troisieme-journee-de-mobilisation
+Metz;France;Metz France;49.1193089;6.1757156;15000;Intersyndicale;7000;;;;https://actu.fr/societe/direct-reforme-des-retraites-le-parcours-des-manifestations-du-7-fevrier-a-nancy-et-a-metz_57178552.html
+Le Puy-en-Velay;France;Le Puy-en-Velay France;45.042768;3.882936;10000;FO;3000;4500;L'éveil de la Haute-Loire;;https://www.leveil.fr/puy-en-velay-43000/actualites/reforme-des-retraites-encore-des-milliers-de-manifestants-dans-les-rues-du-puy-en-velay-video_14259052/
+Lorient;France;Lorient France;47.7482524;-3.3702449;;;;7000;Ouest-France;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-suivez-les-manifestations-a-lorient-vannes-2a7b549e-a627-11ed-acf1-1f171930b7f8
+Auxerre;France;Auxerre France;47.798202;3.573781;;;2500;;;;https://www.lyonne.fr/auxerre-89000/actualites/reforme-des-retraites-suivez-cette-journee-de-mobilisation-dans-l-yonne-en-direct_14258461/
+Sens;France;Sens France;48.20065;3.28268;;;;;;;
+Nevers;France;Nevers France;46.990896;3.162845;;;3200;;;;https://www.lejdc.fr/nevers-58000/actualites/vivez-en-direct-avec-nous-la-troisieme-journee-de-mobilisation-contre-la-reforme-des-retraites-a-nevers_14259051/
+Montargis;France;Montargis France;47.99729;2.736291;2000;;1700;;La République du Centre;;https://www.larep.fr/orleans-45000/actualites/suivez-la-troisieme-journee-de-mobilisation-contre-la-reforme-des-retraites-dans-le-loiret_14258618/
+Annonay;France;Annonay France;45.239403;4.667349;6500;;7000;;;;https://www.francebleu.fr/infos/politique/reforme-des-retraites-dix-nouvelles-manifestations-ce-7-fevrier-en-drome-et-ardeche-5379162
+Aubenas;France;Aubenas France;44.620909;4.389863;3500;;2500;;;;https://www.francebleu.fr/infos/politique/reforme-des-retraites-dix-nouvelles-manifestations-ce-7-fevrier-en-drome-et-ardeche-5379163
+La Roche-sur-Yon;France;La Roche-sur-Yon France;46.670511;-1.426442;8000;;6000;;;;https://www.ouest-france.fr/economie/retraites/direct-greve-du-7-fevrier-suivez-les-manifestations-a-fontenay-le-comte-et-la-roche-sur-yon-11571992-a5fc-11ed-acf1-1f171930b7f8
+Nancy;France;Nancy France;48.692054;6.184417;15000;FO;;;;;https://actu.fr/societe/direct-reforme-des-retraites-le-parcours-des-manifestations-du-7-fevrier-a-nancy-et-a-metz_57178552.html
+Roanne;France;Roanne France;46.034432;4.072695;6000;intersyndicale;3400;;;;
+Morlaix;France;Morlaix France;48.577613;-3.828228;9000;intersyndicale;4000;4000;Ouest-France;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-les-manifestations-a-brest-quimper-morlaix-72ea3ad6-a62e-11ed-acf1-1f171930b7f8
+Quimperlé;France;Quimperlé France;47.872586;-3.547546;;;;3700;Ouest-France;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-les-manifestations-a-brest-quimper-morlaix-72ea3ad6-a62e-11ed-acf1-1f171930b7f8
+Montbéliard;France;Montbéliard France;47.510356;6.798466;3500;;3000;;;;https://www.estrepublicain.fr/social/2023/02/07/greve-contre-la-reforme-des-retraites-suivez-la-journee-de-mobilisation-du-7-fevrier-en-franche-comte
+Dole;France;Dole France;47.09534;5.49081;3000;;2300;;;;https://actu.fr/bourgogne-franche-comte/dole_39198/dole-plus-de-2-300-personnes-mobilisees-contre-la-reforme-des-retraites_57196001.html
+Lons-le-Saunier;France;Lons-le-Saunier France;46.671361;5.550796;;;;;;;
+Chalon-sur-Saône;France;Chalon-sur-Saône France;46.780764;4.853947;8000;;6000;;Le Journal de Saône-et-Loire;;https://www.lejsl.com/social/2023/02/07/en-direct-les-saone-et-loiriens-mobilises-contre-la-reforme-des-retraites
+Bar-le-Duc;France;Bar-le-Duc France;48.773605;5.158238;;;1300;;;;https://www.estrepublicain.fr/social/2023/02/07/greve-contre-la-reforme-des-retraites-suivez-la-journee-de-mobilisation-du-7-fevrier-en-lorraine
+Aurillac;France;Aurillac France;44.930953;2.444997;1750;;1280;;La Montagne;;https://www.lamontagne.fr/clermont-ferrand-63000/actualites/reforme-des-retraites-suivez-en-direct-la-journee-de-mobilisation-en-auvergne-et-dans-le-limousin_14258492/
+Brive;France;Brive France;45.159555;1.533937;;;;;;;
+Ussel;France;Ussel France;45.548905;2.313835;;;;;;;
+Moulins;France;Moulins France;46.568059;3.334417;3500;;2600;;;;https://www.lamontagne.fr/clermont-ferrand-63000/actualites/reforme-des-retraites-suivez-en-direct-la-journee-de-mobilisation-en-auvergne-et-dans-le-limousin_14258492/
+Montluçon;France;Montluçon France;46.3415466;2.6019912;5000;intersyndicale;2500;3000;La Montagne;;https://www.lamontagne.fr/clermont-ferrand-63000/actualites/reforme-des-retraites-suivez-en-direct-la-journee-de-mobilisation-en-auvergne-et-dans-le-limousin_14258492/
+Vichy;France;Vichy France;46.131859;3.425488;3000;intersyndicale;2300;;La Montagne;;https://www.lamontagne.fr/clermont-ferrand-63000/actualites/reforme-des-retraites-suivez-en-direct-la-journee-de-mobilisation-en-auvergne-et-dans-le-limousin_14258492/
+Chartres;France;Chartres France;48.443854;1.489012;;;;;;;
+Auch;France;Auch France;43.64638;0.586709;;;;;;;
+Annecy;France;Annecy France;45.899247;6.129384;10000;CGT;5200;;;;https://www.ledauphine.com/social/2023/01/31/pays-de-savoie-suivez-la-deuxieme-journee-de-mobilisation-contre-les-retraites
+Chambéry;France;Chambéry France;45.564601;5.917781;;;8000;;;;https://www.ledauphine.com/social/2023/01/31/pays-de-savoie-suivez-la-deuxieme-journee-de-mobilisation-contre-les-retraites
+Albertville;France;Albertville France;45.675535;6.392726;4000;;2000;;;;https://www.ledauphine.com/social/2023/02/07/greves-et-manifs-en-pays-de-savoie-suivez-la-mobilisation-de-ce-mardi-7-fevrier
+Saint-Jean-de-Maurienne;France;Saint-Jean-de-Maurienne France;45.275403;6.344886;;;;;;;
+Digne-les-Bains;France;Digne-les-Bains France;44.092193;6.235976;4500;intersyndicale;2200;;La Provence;;https://www.laprovence.com/article/societe/1681147467654216/reforme-des-retraites-des-manifestants-moins-nombreux-que-la-semaine-derniere-en-provence-la-tendance-des-premiers-chiffres
+Arles;France;Arles France;43.676647;4.6277769;2700;intersyndicale;1500;;La Provence;;https://www.laprovence.com/article/societe/1681147467654216/reforme-des-retraites-des-manifestants-moins-nombreux-que-la-semaine-derniere-en-provence-la-tendance-des-premiers-chiffres
+Ajaccio;France;Ajaccio France;41.919229;8.738635;;;;;;;
+Bastia;France;Bastia France;42.697283;9.450881;;;;;;;
+Rodez;France;Rodez France;44.349389;2.575986;3000;intersyndicale;1600;;;;https://www.centrepresseaveyron.fr/2023/02/07/greve-du-7-fevrier-suivez-notre-direct-de-la-troisieme-journee-de-greve-contre-la-reforme-des-retraites-10980843.php
+Mende;France;Mende France;44.517611;3.501873;1350;intersyndicale;500;;Midi libre;;https://www.midilibre.fr/2023/02/07/direct-perturbations-sncf-rendez-vous-des-manifestants-suivez-la-mobilisation-contre-la-reforme-des-retraites-10980721.php
+Castres;France;Castres France;43.606214;2.241295;3000;intersyndicale;2000;;;;https://www.ladepeche.fr/2023/02/07/video-greve-du-7-fevrier-a-castres-entre-2000-et-3000-manifestants-ont-foule-le-pave-contre-la-reforme-des-retraites-10981280.php
+Albi;France;Albi France;43.9250853;2.1486413;;;;;;;
+Carcassonne;France;Carcassonne France;43.2132151;2.3517703;3000;intersyndicale;2200;;L'Indépendant;;https://www.lindependant.fr/2023/02/07/aude-troisieme-journee-de-mobilisation-contre-la-reforme-des-retraites-2-000-manifestants-a-narbonne-et-a-carcassonne-10981528.php
+Narbonne;France;Narbonne France;43.184277;3.003078;2200;;1300;;;;https://www.lindependant.fr/2023/02/07/aude-reforme-des-retraites-des-manifestants-moins-nombreux-mais-une-volonte-qui-ne-faiblit-pas-10981686.php
+Figeac;France;Figeac France;44.608288;2.032871;4500;CGT;3500;;actu.fr;;https://actu.fr/occitanie/cahors_46042/reforme-des-retraites-pres-de-7-000-manifestants-a-cahors-figeac-et-biars-sur-cere_57195782.html
+Cahors;France;Cahors France;44.4475229;1.441989;3400;intersyndicale;2800;;;;https://actu.fr/occitanie/cahors_46042/reforme-des-retraites-pres-de-7-000-manifestants-a-cahors-figeac-et-biars-sur-cere_57195782.html
+Gap;France;Gap France;44.566667;6.083333;;;;;;;
+Guingamp;France;Guingamp France;48.561864;-3.151869;;;;;;;
+Bourg-en-Bresse;France;Bourg-en-Bresse France;46.204939;5.225621;5000;;3500;;;;https://www.leprogres.fr/social/2023/02/07/le-cortege-se-forme-a-bourg-en-bresse-contre-la-reforme-des-retraites
+Romorantin;France;Romorantin France;47.3725911;1.7018261;1500;;;1100;La Nouvelle République;;https://www.lanouvellerepublique.fr/vendome/loir-et-cher-contre-la-reforme-des-retraites-1-500-manifestants-a-romorantin-et-1-650-a-vendome
+Troyes;France;Troyes France;48.2924465;4.041115;;;4000;;;;https://www.lest-eclair.fr/id453952/article/2023-02-07/direct-mobilisation-contre-la-reforme-des-retraites-troyes
+Châlons-en-Champagne;France;Châlons-en-Champagne France;48.956682;4.363073;;;1500;;;;https://www.lunion.fr/id453960/article/2023-02-07/reforme-des-retraites-les-manifestations-selancent-dans-la-marne-et-laisne
+Epernay;France;Epernay France;49.043411;3.956242;;;1500;;;;https://www.lunion.fr/id453960/article/2023-02-07/reforme-des-retraites-les-manifestations-selancent-dans-la-marne-et-laisne
+Saint-Dizier;France;Saint-Dizier France;48.637692;4.947418;;;;;;;
+Soissons;France;Soissons France;49.376636;3.32342;;;;2000;L'Union;;https://www.lunion.fr/id453960/article/2023-02-07/reforme-des-retraites-les-manifestations-selancent-dans-la-marne-et-laisne
+Chateau-Thierry;France;Chateau-Thierry France;49.0459869;3.40262;;;;;;;
+Charleville-Mézières;France;Charleville-Mézières France;49.762085;4.726096;7500;CGT;;;;;https://www.francebleu.fr/infos/economie-social/charleville-mezieres-nouvelle-mobilisation-contre-la-reforme-des-retraites-5550246
+Maubeuge;France;Maubeuge France;50.280228;3.9674;;;;;;;
+Poitiers;France;Poitiers France;46.580224;0.340375;10000;intersyndicale;4400;;;;https://www.centre-presse.fr/article-878389-reforme-des-retraites-manifestation-ce-mardi-a-poitiers.html
+Châtellerault;France;Châtellerault France;46.816487;0.548146;3000;intersyndicale;2300;;;;https://www.lanouvellerepublique.fr/chatellerault/a-chatellerault-plus-de-2-500-manifestants-mobilises-contre-la-reforme-des-retraites
+Thouars;France;Thouars France;46.976154;-0.216803;;;;;;;
+Carhaix;France;Carhaix France;48.275584;-3.574188;2000;;1600;;Ouest France;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-les-manifestations-a-brest-quimper-morlaix-72ea3ad6-a62e-11ed-acf1-1f171930b7f8
+Pontivy;France;Pontivy France;48.066152;-2.967056;;;;3000;Ouest-France;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-suivez-les-manifestations-a-lorient-vannes-2a7b549e-a627-11ed-acf1-1f171930b7f8
+Foix;France;Foix France;42.964127;1.605232;;;;;;;
+Saint-Gaudens;France;Saint-Gaudens France;43.106895;0.723763;;;;;;;
+Marmande;France;Marmande France;44.500484;0.159869;;;;;;;
+Chaumont;France;Chaumont France;48.113748;5.1392559;;;;;;;
+Montélimar;France;Montélimar France;44.556944;4.749496;6000;;4100;;;;https://www.francebleu.fr/infos/politique/reforme-des-retraites-dix-nouvelles-manifestations-ce-7-fevrier-en-drome-et-ardeche-5379162
+Beauvais;France;Beauvais France;49.4295387;2.0807123;7000;CGT;2600;;;;https://www.aisnenouvelle.fr/id386074/article/2023-02-07/hauts-de-france-suivez-en-direct-la-troisieme-journee-de-mobilisation-contre-la#
+Compiègne;France;Compiègne France;49.417816;2.826145;4500;CGT;3000;;;;https://www.oisehebdo.fr/2023/02/07/compiegne-manifestation-reforme-retraites/
+Draguignan;France;Draguignan France;43.5377269;6.464993;2800;;1600;;Nice-Matin;;https://www.nicematin.com/social/greve-contre-la-reforme-des-retraites-la-mobilisation-toujours-importante-a-nice-et-draguignan-la-cgt-appelle-a-un-durcissement-du-mouvement-suivez-la-journee-en-direct-826489
+Saint-Omer;France;Saint-Omer France;50.750115;2.252208;;;;;;;
+Gien;France;Gien France;47.6374513;2.7371902;;;1000;;;;https://www.larep.fr/orleans-45000/actualites/suivez-la-troisieme-journee-de-mobilisation-contre-la-reforme-des-retraites-dans-le-loiret_14258618/
+Chateaubriant;France;Chateaubriant France;47.720948;-1.3762239;2000;CGT;1200;;;;https://france3-regions.francetvinfo.fr/pays-de-la-loire/reforme-des-retraites-troisieme-journee-de-mobilisation-2709534.html
+Sarlat;France;Sarlat France;44.890891;1.217292;;;;;;;
+Cherbourg;France;Cherbourg France;49.6423;-1.62551;16500;;11000;10000;Ouest-France;;https://www.ouest-france.fr/economie/retraites/direct-reformes-des-retraites-suivez-les-manifestations-a-cherbourg-et-saint-lo-567b2632-a631-11ed-acf1-1f171930b7f8
+Bressuire;France;Bressuire France;46.84246;-0.492866;;;;600;La Nouvelle République;;https://www.lanouvellerepublique.fr/bressuire/deux-sevres-les-retraites-eux-aussi-en-lutte-pour-defendre-l-avenir-des-travailleurs
+Dinan;France;Dinan France;48.454366;-2.047327;;;3000;;;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-les-manifestations-a-st-brieuc-lannion-dinan-ef461b16-a63f-11ed-acf1-1f171930b7f8
+Bergerac;France;Bergerac France;44.853806;0.483392;2000;intersyndicale;1600;;;;https://www.sudouest.fr/economie/social/greve-du-7-fevrier-a-bergerac-1-600-personnes-dans-la-rue-selon-la-police-13974830.php
+Montauban;France;Montauban France;44.0221252;1.3529599;7000;intersyndicale;;;;;https://www.ladepeche.fr/2023/02/07/direct-greve-du-7-fevrier-manifestations-actions-suivez-la-troisieme-journee-de-mobilisation-contre-la-reforme-des-retraites-10979804.php
+Vendôme;France;Vendôme France;47.792551;1.065343;;;;1650;;;https://www.lanouvellerepublique.fr/vendome/loir-et-cher-contre-la-reforme-des-retraites-1-500-manifestants-a-romorantin-et-1-650-a-vendome
+Ploërmel;France;Ploërmel France;47.929254;-2.396846;;;;1000;Ouest-France;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-7-fevrier-suivez-les-manifestations-a-lorient-vannes-2a7b549e-a627-11ed-acf1-1f171930b7f8
+Langres;France;Langres France;47.86683;5.334297;;;;;;;
+Pont-Audemer;France;Pont-Audemer France;49.354883;0.5142989;;;;;;;
+Evreux;France;Evreux France;49.027013;1.151361;;;4000;;;;
+Eu;France;Eu France;50.04887;1.419597;;;1200;;;;https://www.aisnenouvelle.fr/id386074/article/2023-02-07/hauts-de-france-suivez-en-direct-la-troisieme-journee-de-mobilisation-contre-la#
+Saint-Quentin;France;Saint-Quentin France;49.847066;3.2874;6000;;3000;;;;https://www.aisnenouvelle.fr/id386074/article/2023-02-07/hauts-de-france-suivez-en-direct-la-troisieme-journee-de-mobilisation-contre-la#
+Laon;France;Laon France;49.564133;3.61989;1800;;1000;;;;https://www.lunion.fr/id453960/article/2023-02-07/reforme-des-retraites-les-manifestations-selancent-dans-la-marne-et-laisne
+Fougères;France;Fougères France;48.3515609;-1.204626;1500;;;;;;https://www.ouest-france.fr/economie/retraites/reformes-des-retraites-a-fougeres-une-mobilisation-importante-mais-en-baisse-083b543e-a6fd-11ed-9512-c1edba2ba438
+Vitré;France;Vitré France;48.12474599999999;-1.21543;;;;;;;
