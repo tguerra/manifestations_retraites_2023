@@ -10,4 +10,4 @@ Les données ont été scrapées à partir du recensement des mobilisations effe
 
 -   [Journée du 31 janvier 2023](https://www.lemonde.fr/les-decodeurs/article/2023/01/31/reforme-des-retraites-la-carte-des-manifestations-du-31-janvier-en-france_6159964_4355770.html)
 
--	[Journée du 8 février 2023](https://www.lemonde.fr/les-decodeurs/article/2023/02/07/la-carte-des-manifestations-du-7-fevrier-contre-la-reforme-des-retraites_6160842_4355770.html)
+-	[Journée du 7 février 2023](https://www.lemonde.fr/les-decodeurs/article/2023/02/07/la-carte-des-manifestations-du-7-fevrier-contre-la-reforme-des-retraites_6160842_4355770.html)
