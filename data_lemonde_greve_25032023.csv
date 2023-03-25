@@ -1,0 +1,197 @@
+﻿Ville;adresse_full;Latitude;Longitude;participants_syndicats;source_syndicats;participants_police;participants_presse;source_presse;participants_occurrence;description_libre;lien
+Paris;Paris France;48.856614;2.3522219;800000;CGT;119000;;;83000;;https://www.lemonde.fr/politique/live/2023/03/23/manifestations-du-23-mars-en-direct-a-nantes-ce-n-est-pas-une-foule-qui-manifeste-c-est-un-peuple_6166641_823448.html?#id-899985
+Marseille;Marseille France;43.296482;5.36978;280000;CGT;16000;;;;;
+Nantes;Nantes France;47.218371;-1.553621;80000;intersyndicale;25000;40000;Ouest France;;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-23-mars-suivez-les-manifestations-a-nantes-saint-nazaire-cb6b624c-c8bc-11ed-a412-5cbed970d9f5
+Toulouse;Toulouse France;43.604652;1.444209;150000;;30000;;La Dépêche;;;https://www.ladepeche.fr/2023/03/23/direct-reforme-des-retraites-9e-journee-de-mobilisation-les-actions-se-multiplient-partout-en-france-11082176.php
+Lyon;Lyon France;45.764043;4.835659;55000;intersyndicale;22000;;;;;
+Montpellier;Montpellier France;43.610769;3.876716;40000;CGT;18000;;Midi Libre;;;https://www.midilibre.fr/2023/03/23/greve-du-23-mars-carole-delga-defile-a-montpellier-suivez-la-mobilisation-en-direct-11082524.php
+Caen;Caen France;49.182863;-0.370679;45000;CGT;19200;;Ouest France;;;https://www.ouest-france.fr/economie/retraites/direct-suivez-les-manifestations-ce-23-mars-contre-la-reforme-des-retraites-a-caen-et-le-calvados-163920f4-c8d9-11ed-a412-5cbed970d9f5
+Grenoble;Grenoble France;45.188529;5.724524;56000;;19000;;;;;https://www.ledauphine.com/social/2023/03/23/reforme-des-retraites-plusieurs-blocages-pres-du-campus-de-grenoble
+Brest;Brest France;48.390394;-4.486076;40000;;20000;30000;Ouest France;;;
+Rennes;Rennes France;48.117266;-1.6777926;35000;Intersyndicale;22200;;Le Télégramme;;;
+Clermont-Ferrand;Clermont-Ferrand France;45.777222;3.087025;50000;Intersyndicale;13500;;France 3 Régions;;;
+Metz;Metz France;49.1193089;6.1757156;13000;CGT;7500;;France Bleu;;;https://www.francebleu.fr/infos/economie-social/en-images-a-metz-un-cortege-fourni-pour-la-manifestation-contre-la-reforme-des-retraites-5546079
+Angers;Angers France;47.4711616;-0.5518257;16000;CFDT;9000;;Ouest France;;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-et-manifestations-du-23-mars-a-angers-cholet-saumur-et-segre-a60fb05c-c8b7-11ed-a412-5cbed970d9f5
+Bordeaux;Bordeaux France;44.837789;-0.57918;110000;Intersyndicale;18200;;;;;https://www.sudouest.fr/economie/reforme-des-retraites/direct-greve-du-23-mars-des-incidents-a-bordeaux-suivez-le-fil-de-la-journee-14537505.php
+Pau;Pau France;43.2951;-0.370797;25000;CGT;16000;18000;Sud-Ouest;;;https://www.sudouest.fr/economie/reforme-des-retraites/direct-greve-du-23-mars-blocages-manifestations-suivez-les-temps-forts-de-la-mobilisation-14528043.php
+Saint-Nazaire;Saint-Nazaire France;47.2734979;-2.213848;13000;Intersyndicale;9000;;Le Télégramme;;;https://www.letelegramme.fr/economie/retraites/blocages-manifestations-le-point-sur-la-mobilisation-en-bretagne-23-03-2023-13302756.php
+Nancy;Nancy France;48.692054;6.184417;40000;;;;Républicain Lorrain;;;https://www.republicain-lorrain.fr/social/2023/03/23/reforme-des-retraites-les-corteges-vont-demarrer-a-metz-et-longwy
+Rouen;Rouen France;49.443232;1.099971;23000;CGT;14000;;Paris Normandie;;;https://www.paris-normandie.fr/id398920/article/2023-03-23/greve-du-23-mars-les-depots-de-bus-bloques-evreuxbarrages-filtrants-arouen
+Le Mans;Le Mans France;48.00611;0.199556;18000;intersyndicale;8800;;;;;https://www.francebleu.fr/infos/economie-social/retraites-forte-mobilisation-au-mans-une-semaine-apres-le-49-3-9258666
+Bayonne;Bayonne France;43.492949;-1.474841;24000;FSU;9500;;;;;https://www.sudouest.fr/economie/reforme-des-retraites/direct-greve-du-23-mars-blocages-manifestations-suivez-les-temps-forts-de-la-mobilisation-14528043.php
+Orléans;Orléans France;47.902964;1.909251;30000;CGT;7200;10000;France Bleu Orléans;;;https://www.francebleu.fr/infos/economie-social/reforme-des-retraites-la-mobilisation-a-orleans-revient-au-niveau-des-premieres-manifestations-4097859
+Tours;Tours France;47.394144;0.68484;12000;intersyndicale;9700;;La Nouvelle République;;;https://www.lanouvellerepublique.fr/a-la-une/direct-retraites-suivez-la-9e-journee-de-mobilisation-du-23-mars?queryId%5Bquery1%5D=57cd2206459a452f008b4594&queryId%5Bquery2%5D=57c95b34479a452f008b459d&page=0&pageId=57da5ce0459a4552008b4567
+Besançon;Besançon France;47.237829;6.0240539;11500;CGT;8200;;L'Est républicain;;;https://www.estrepublicain.fr/social/2023/03/23/reforme-des-retraites-en-franche-comte-suivez-cette-nouvelle-journee-de-greve
+Perpignan;Perpignan France;42.6886591;2.8948332;20000;;;;Actu.fr;;;https://actu.fr/occitanie/perpignan_66136/greve-du-23-mars-manif-perturbations-suivez-la-mobilisation-a-perpignan_58318171.html
+Blois;Blois, France;47.5860921;1.3359475;10000;intersyndicale;8000;;La Nouvelle République;;;https://www.lanouvellerepublique.fr/blois/direct-nouvelle-journee-de-mobilisation-contre-la-reforme-des-retraites-en-loir-et-cher-ce-jeudi-23-mars-2023#:~:text=Les%20manifestants%20ont%20emprunt%C3%A9%20la,Blois%2C%20bloquant%20ainsi%20la%20circulation.&text=Jeudi%2023%20mars%202023%20marque,secteurs%20et%20de%20nombreuses%20manifestations.
+Le Havre;Le Havre France;49.49437;0.107929;50000;;9900;;BFMTV;;;https://www.bfmtv.com/normandie/greve-du-23-mars-en-normandie-un-trafic-perturbe-sur-les-reseaux-de-transports-et-a-la-sncf_LN-202303230033.html
+Narbonne;Narbonne France;43.184277;3.003078;6500;CGT;5500;;;;;
+Valence;Valence France;44.933393;4.89236;20000;Force Ouvrière;6000;;Dauphiné Libéré;;;https://www.ledauphine.com/social/2023/03/23/greves-et-manifs-en-drome-et-en-ardeche-plusieurs-actions-prevues-dans-nos-departements
+Poitiers;Poitiers France;46.580224;0.340375;20000;;8300;;La nouvelle République;;;
+Limoges;Limoges France;45.833619;1.261105;45000;;8500;;Le Populaire du Centre;;;https://www.lepopulaire.fr/limoges-87000/actualites/reforme-des-retraites-suivez-la-9e-journee-de-mobilisation-en-haute-vienne_14281737/
+Strasbourg;Strasbourg France;48.5734053;7.7521113;30000;;12400;;Dernières nouvelles d'Alsace;;;https://www.dna.fr/social/2023/03/23/retraites-nouvelle-journee-de-mobilisation-dans-le-bas-rhin-ce-jeudi
+Saint-Brieuc;Saint-Brieuc France;48.51418;-2.765835;10000;;6000;;Ouest France;;;https://www.ouest-france.fr/economie/retraites/direct-reforme-des-retraites-greve-du-23-mars-les-manifestations-a-saint-brieuc-lannion-dinan-282fcdb4-c7f6-11ed-80c7-e23f0fe16482
+Chalon-sur-Saône;Chalon-sur-Saône France;46.780764;4.853947;;;5000;;Journal de Saone et Loire;;;https://www.lejsl.com/social/2023/03/23/suivez-en-direct-la-9e-journee-de-manifestations-contre-la-reforme-des-retraites-en-saone-et-loire#82e6306c-93c4-4b18-9164-ca4e7a4075b1
+Toulon;Toulon France;43.124228;5.928;30000;CGT;12000;;;;;https://www.nicematin.com/social/greve-du-23-mars-les-manifestations-se-sont-elancees-a-nice-toulon-et-draguignan-beaucoup-de-monde-dans-les-corteges-suivez-notre-direct-836316
+Saint-Etienne;Saint-Etienne France;45.439695;4.3871779;35000;;6200;10800;Le Progrès;;;https://www.leprogres.fr/social/2023/03/23/reforme-des-retraites-apres-le-vote-la-revolte#5101ce5a-2f20-470e-a955-a06dbe2bd8c2
+Chambéry;Chambéry France;45.564601;5.917781;15000;;5000;;;;;
+Lorient;Lorient France;47.7482524;-3.3702449;12000;;7000;;Le Télégramme;;;https://www.letelegramme.fr/morbihan/lorient/direct-mobilisation-contre-la-reforme-des-retraites-a-lorient-le-cours-de-chazelles-bloque-23-03-2023-13302747.php
+Cherbourg;Cherbourg France;49.6423;-1.62551;;;;9000;Ouest France;;;https://www.ouest-france.fr/economie/retraites/direct-dans-la-manche-les-manifestants-sopposent-a-la-reforme-des-retraites-pour-la-neuvieme-fois-0df0a6d4-c955-11ed-b7b6-abe6ad8a6310
+Châteauroux;Châteauroux France;46.811434;1.686779;10000;;6500;;La Nouvelle République;;;https://www.lanouvellerepublique.fr/chateauroux/reformes-des-retraites-barrage-filtrant-au-mach-36-distribution-de-tracts-au-blanc-et-blocage-du-courrier
+Charleville-Mézières;Charleville-Mézières France;49.762085;4.726096;11000;;5000;;France Bleu;;;https://www.lunion.fr/id468080/article/2023-03-23/reforme-des-retraites-journee-de-mobilisation-dans-la-marne-laisne-et-les
+Niort;Niort France;46.323716;-0.464777;10000;;6500;;Ouest France;;;https://www.ouest-france.fr/economie/retraites/direct-greve-du-23-mars-sur-les-retraites-manifestations-et-mobilisation-en-deux-sevres-c9b74fa6-c7c7-11ed-bb6d-507912c558a1
+Angoulême;Angoulême France;45.648377;0.1562369;15000;;;;;;;https://www.charentelibre.fr/economie/reforme-des-retraites/retraites-top-depart-de-la-9e-journee-de-mobilisation-sur-le-rond-point-de-carat-video-14532021.php
+Reims;Reims France;49.258329;4.031696;6500;;4000;;;;;https://france3-regions.francetvinfo.fr/grand-est/marne/reims/en-images-greve-et-manifestation-pour-les-retraites-reims-se-mobilise-ce-jeudi-23-mars-2738386.html
+Quimperlé;Quimperlé France;47.872586;-3.547546;;;4500;5000;Ouest France;;;
+Lannion;Lannion France;48.732084;-3.459144;10000;intersyndicale;5100;;Le Télégramme;;Entre 8 000 et 10 000 personnes selon les syndicats;https://www.letelegramme.fr/economie/retraites/blocages-manifestations-le-point-sur-la-mobilisation-en-bretagne-23-03-2023-13302756.php
+Avignon;Avignon France;43.949317;4.805528;30000;intersyndicale;6000;20000;La Provence;;;https://www.laprovence.com/article/region/35680617563741/direct-reforme-des-retraites-des-manifestants-qui-bloquaient-la-gare-routiere-de-saint-charles-evacues-par-la-police-a-marseille
+Tarbes;Tarbes France;43.232951;0.078082;24000;;7500;;La Dépêche;;;https://www.ladepeche.fr/2023/03/23/direct-reforme-des-retraites-9e-journee-de-mobilisation-les-actions-se-multiplient-partout-en-france-11082176.php
+Mulhouse;Mulhouse France;47.750839;7.335888;9000;intersyndicale;7000;;;;;
+Guéret;Guéret France;46.169599;1.871452;4000;;3750;;La Montagne;;;https://www.lamontagne.fr/clermont-ferrand-63000/actualites/neuvieme-journee-de-mobilisations-contre-la-reforme-des-retraites-suivez-notre-direct_14282499/
+Le Puy-en-Velay;Le Puy-en-Velay France;45.042768;3.882936;15000;intersyndicale;4250;;;;;
+Epinal;Epinal France;48.172402;6.449403;9000;intersyndicale;4500;;;;;
+Périgueux;Périgueux France;45.184029;0.7211149;15000;CGT;5400;6100;Sud-Ouest;;;https://www.sudouest.fr/economie/reforme-des-retraites/greve-du-23-mars-environ-6-100-manifestants-dans-les-rues-de-perigueux-14535392.php
+Carcassonne;Carcassonne France;43.2132151;2.3517703;6500;;6000;;L'indépendant;;;https://www.lindependant.fr/2023/03/23/reforme-des-retraites-dans-laude-suivez-la-journee-de-manifestation-a-carcassonne-et-narbonne-11082557.php
+Roanne;Roanne France;46.034432;4.072695;;;3300;;Le Progrès;;;https://www.leprogres.fr/social/2023/03/23/reforme-des-retraites-apres-le-vote-la-revolte#eeef8326-f6b3-4c06-ad6f-7492d5da7333
+Nice;Nice France;43.7101728;7.2619532;40000;;5200;;Nice Matin;;Entre 35 000 et 40 000 personnes selon les syndicats;https://www.nicematin.com/social/greve-du-23-mars-louest-de-nice-paralyse-par-la-manifestation-des-chiffres-de-mobilisation-records-dans-le-var-suivez-notre-direct-836316
+Nîmes;Nîmes France;43.836699;4.360054;30000;;7000;;Midi Libre;;;https://www.midilibre.fr/2023/03/23/nimes-suivez-en-direct-la-manifestation-contre-la-reforme-des-retraites-11082603.php
+Amiens;Amiens France;49.894067;2.295753;20000;CGT;6000;;Le Courrier picard;;;https://www.courrier-picard.fr/id398915/article/2023-03-23/retraites-suivez-en-direct-les-actions-contre-la-reforme-en-picardie-jeudi-23
+Montélimar;Montélimar France;44.556944;4.749496;6000;;3800;;Dauphiné Libéré;;;https://www.ledauphine.com/social/2023/03/23/greves-et-manifs-en-drome-et-en-ardeche-plusieurs-actions-prevues-dans-nos-departements
+Béziers;Béziers France;43.344233;3.215795;17000;intersyndicale;5800;;France Bleu;;;https://www.midilibre.fr/2023/03/23/greve-du-23-mars-delga-a-montpellier-haka-a-perpignan-10-000-personnes-a-beziers-le-point-a-la-mi-journee-11082724.php
+Annecy;Annecy France;45.899247;6.129384;6000;intersyndicale;4100;;;;;
+Bourges;Bourges France;47.081012;2.398782;8000;intersyndicale;4300;;Le Berry républicain;;;https://www.leberry.fr/bourges-18000/actualites/la-marseillaise-chantee-sur-les-voies-de-la-gare-de-vierzon-corteges-a-bourges-et-saint-amand-la-neuvieme-journee-de-mobilisation-en-video_14282572/
+Alès;Alès France;44.127204;4.083352;;;4500;;Midi Libre;;;https://www.midilibre.fr/2023/03/23/greve-du-23-mars-delga-a-montpellier-haka-a-perpignan-10-000-personnes-a-beziers-le-point-a-la-mi-journee-11082724.php
+Mont-de-Marsan;Mont-de-Marsan France;43.893485;-0.499782;5500;intersyndicale;4500;;Sud-Ouest;;;https://www.sudouest.fr/economie/reforme-des-retraites/direct-greve-du-23-mars-blocages-manifestations-suivez-les-temps-forts-de-la-mobilisation-14528043.php
+Aubenas;Aubenas France;44.620909;4.389863;5000;;4800;;Dauphiné Libéré;;;https://www.ledauphine.com/social/2023/03/23/greves-et-manifs-en-drome-et-en-ardeche-plusieurs-actions-prevues-dans-nos-departements
+Boulogne-sur-Mer;Boulogne-sur-Mer France;50.725231;1.613334;10000;intersyndicale;3000;;Nord Littoral;;;
+Montbéliard;Montbéliard France;47.510356;6.798466;4000;intersyndicale;3000;;L'Est Républicain;;;https://www.estrepublicain.fr/social/2023/03/23/reforme-des-retraites-en-franche-comte-suivez-cette-nouvelle-journee-de-greve
+Bourgoin-Jallieu;Bourgoin-Jallieu France;45.597108;5.27212;8000;;3500;;Le Dauphiné Libéré;;;https://www.ledauphine.com/edition-grenoble-agglomeration/grenoble
+Evreux;Evreux France;49.027013;1.151361;10000;intersyndicale;3700;;;;;
+Pontivy;Pontivy France;48.066152;-2.967056;;;;3000;Le Télégramme;;;https://www.letelegramme.fr/morbihan/pontivy/a-pontivy-plus-de-3-000-manifestants-contre-la-reforme-des-retraites-23-03-2023-13302907.php
+Auch;Auch France;43.64638;0.586709;8000;;;;;;;https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/direct-reforme-des-retraites-les-mobilisations-a-toulouse-et-sa-region-2738394.html
+Agen;Agen France;44.203142;0.616363;6000;;4000;;;;;https://www.sudouest.fr/economie/reforme-des-retraites/direct-greve-du-23-mars-blocages-manifestations-suivez-les-temps-forts-de-la-mobilisation-14528043.php
+Dieppe;Dieppe France;49.922992;1.077483;;;3300;;BFMTV;;;https://www.bfmtv.com/normandie/greve-du-23-mars-en-normandie-un-trafic-perturbe-sur-les-reseaux-de-transports-et-a-la-sncf_LN-202303230033.html
+Belfort;Belfort France;47.639674;6.863849;7000;;3000;6000;L'Est républicain;;;https://www.estrepublicain.fr/social/2023/03/23/reforme-des-retraites-en-franche-comte-suivez-cette-nouvelle-journee-de-greve
+Rochefort;Rochefort France;45.936698;-0.961697;;;;2500;Sud Ouest;;;https://www.sudouest.fr/economie/reforme-des-retraites/greve-du-23-mars-a-rochefort-une-manifestation-inedite-pour-une-grogne-determinee-14540959.php
+Saint-Quentin;Saint-Quentin France;49.847066;3.2874;;;;6000;L'Union;;;
+Arles;Arles France;43.676647;4.6277769;6000;;5000;;;;;
+Saintes;Saintes France;45.744175;-0.633389;6000;intersyndicale;4000;4300;Sud-Ouest;;;https://www.sudouest.fr/economie/reforme-des-retraites/direct-greve-du-23-mars-blocages-manifestations-suivez-les-temps-forts-de-la-mobilisation-14528043.php
+Gap;Gap France;44.566667;6.083333;5000;;3000;;Le Dauphiné Libéré;;;https://www.ledauphine.com/social/2023/03/23/greves-et-manifestations-dans-les-alpes-du-sud-l-intersyndicale-mobilisee-a-gap
+Beauvais;Beauvais France;49.4295387;2.0807123;12500;CGT;8000;;Le Courrier picard;;;https://www.courrier-picard.fr/id398915/article/2023-03-23/retraites-suivez-en-direct-les-actions-contre-la-reforme-en-picardie-jeudi-23
+Dole;Dole France;47.09534;5.49081;;;3100;;;;;https://www.leprogres.fr/social/2023/03/23/reforme-des-retraites-des-manifestants-rassembles-a-dole
+Montargis;Montargis France;47.99729;2.736291;;;;2200;La République du centre;;;https://www.larep.fr/orleans-45000/actualites/reforme-des-retraites-nouvelle-journee-de-mobilisation-dans-le-loiret-suivez-notre-direct_14282049/
+Dinan;Dinan France;48.454366;-2.047327;4700;intersyndicale;2400;;Le Télégramme;;;https://www.letelegramme.fr/economie/retraites/blocages-manifestations-le-point-sur-la-mobilisation-en-bretagne-23-03-2023-13302756.php
+Mâcon;Mâcon France;46.3068839;4.828731;6000;;3000;;Le Journal de Saône-et-Loire;;;https://www.lejsl.com/social/2023/03/23/suivez-en-direct-la-9e-journee-de-manifestations-contre-la-reforme-des-retraites-en-saone-et-loire
+Tulle;Tulle France;45.26565;1.771697;4000;;1900;2000;La Montagne;;;https://www.lamontagne.fr/clermont-ferrand-63000/actualites/neuvieme-journee-de-mobilisations-contre-la-reforme-des-retraites-suivez-notre-direct_14282499/
+Albertville;Albertville France;45.675535;6.392726;4000;;2300;;;;;https://www.francebleu.fr/infos/economie-social/direct-reforme-des-retraites-barrage-filtrant-sur-la-voie-rapide-urbaine-de-chambery-suivez-le-direct-2627430
+Sens;Sens France;48.20065;3.28268;;;1800;1800;L'Yonne;;;https://www.lyonne.fr/auxerre-89000/actualites/reforme-des-retraites-suivez-en-direct-cette-nouvelle-journee-de-mobilisation-dans-l-yonne_14281722/
+Annonay;Annonay France;45.239403;4.667349;9000;CGT;4000;4000;Dauphiné Libéré;;;https://www.ledauphine.com/social/2023/03/23/greves-et-manifs-en-drome-et-en-ardeche-plusieurs-actions-prevues-dans-nos-departements
+Vierzon;Vierzon France;47.221438;2.069791;4000;;;;Le Berry républicain;;;https://www.leberry.fr/bourges-18000/actualites/la-marseillaise-chantee-sur-les-voies-de-la-gare-de-vierzon-corteges-a-bourges-et-saint-amand-la-neuvieme-journee-de-mobilisation-en-video_14282572/
+Vichy;Vichy France;46.131859;3.425488;5000;;2500;;;;;https://www.lamontagne.fr/clermont-ferrand-63000/actualites/neuvieme-journee-de-mobilisations-contre-la-reforme-des-retraites-suivez-notre-direct_14282499/
+Châtellerault;Châtellerault France;46.816487;0.548146;;;;3500;La Nouvelle République;;;https://www.lanouvellerepublique.fr/a-la-une/direct-retraites-suivez-la-9e-journee-de-mobilisation-du-23-mars?queryId%5Bquery1%5D=57cd2206459a452f008b4594&queryId%5Bquery2%5D=57c95b34479a452f008b459d&page=0&pageId=57da5ce0459a4552008b4567
+Draguignan;Draguignan France;43.5377269;6.464993;5000;intersyndicale;3000;;;;;https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/direct-reformes-des-retraites-plusieurs-manifestations-prevues-en-paca-ce-jeudi-2738238.html
+Sète;Sète France;43.4078758;3.7008219;6000;;2500;;Midi Libre;;;https://www.midilibre.fr/2023/03/23/greve-contre-la-reforme-des-retraites-a-sete-6-000-manifestants-selon-la-cgt-tensions-autour-du-lycee-11082817.php
+Privas;Privas France;44.735269;4.599039;2300;CGT;2000;;Le Dauphiné;;;https://www.ledauphine.com/social/2023/03/23/greves-et-manifs-en-drome-et-en-ardeche-plusieurs-actions-prevues-dans-nos-departements
+Alençon;Alençon France;48.432856;0.091266;2000;;1800;1600;Ouest France;;;
+Saint-Lô;Saint-Lô France;49.1154686;-1.0828136;2000;;1850;;;;;https://www.ouest-france.fr/economie/retraites/direct-dans-la-manche-les-manifestants-sopposent-a-la-reforme-des-retraites-pour-la-neuvieme-fois-0df0a6d4-c955-11ed-b7b6-abe6ad8a6310
+Arras;Arras France;50.291002;2.777535;5500;;;;;;;https://www.nordlittoral.fr/169157/article/2023-03-23/arras-des-milliers-de-manifestants-contre-la-reforme-des-retraites-et-de
+Vendôme;Vendôme France;47.792551;1.065343;2900;CGT;2500;;La Nouvelle République;;;https://www.lanouvellerepublique.fr/a-la-une/direct-retraites-suivez-la-9e-journee-de-mobilisation-du-23-mars?queryId%5Bquery1%5D=57cd2206459a452f008b4594&queryId%5Bquery2%5D=57c95b34479a452f008b459d&page=0&pageId=57da5ce0459a4552008b4567
+Guingamp;Guingamp France;48.561864;-3.151869;2000;;2600;;Ouest France;;;https://www.ouest-france.fr/economie/retraites/video-reforme-des-retraites-pres-de-2-000-manifestants-reunis-a-guingamp-f4104e03-71ab-4128-8b8b-d66391da45a0
+Châlons-en-Champagne;Châlons-en-Champagne France;48.956682;4.363073;1600;;1300;;;;;https://www.francebleu.fr/infos/economie-social/en-images-la-mobilisation-contre-la-reforme-des-retraites-se-poursuit-a-reims-3961710
+Cambrai;Cambrai France;50.173538;3.236633;;;;1000;La Voix du Nord;;;https://www.lavoixdunord.fr/1306549/article/2023-03-23/direct-retraites-neuvieme-journee-de-mobilisation-contre-la-reforme-adoptee-au
+Saint-Pierre, La Réunion;Saint-Pierre, La Réunion France;-21.3408775;55.4776663;;;;;;;;
+Carhaix;Carhaix France;48.275584;-3.574188;2500;;2400;;;;;
+Mende;Mende France;44.517611;3.501873;2800;;1500;;;;;
+Argentan;Argentan France;48.744001;-0.016566;1408;;1100;;;;;
+Brive;Brive France;45.159555;1.533937;17000;CGT;5000;;;;;https://www.lamontagne.fr/clermont-ferrand-63000/actualites/neuvieme-journee-de-mobilisations-contre-la-reforme-des-retraites-suivez-notre-direct_14282499/
+Bagnols-sur-Cèze;Bagnols-sur-Cèze France;44.16252;4.620075;;;;;;;;
+Coutances;Coutances France;49.047808;-1.4452609;2000;intersyndicale;1600;;;;;https://www.ouest-france.fr/economie/retraites/direct-dans-la-manche-les-manifestants-sopposent-a-la-reforme-des-retraites-pour-la-neuvieme-fois-0df0a6d4-c955-11ed-b7b6-abe6ad8a6310
+Colmar;Colmar, France;48.0793589;7.358512;;;1700;;;;;
+Romorantin;Romorantin France;47.3725911;1.7018261;;;;;;;;
+Bar-le-Duc;Bar-le-Duc France;48.773605;5.158238;1100;intersyndicale;;;;;;
+Cannes;Cannes France;43.552847;7.017369;;;;;;;;
+Fontenay-le-Comte;Fontenay-le-Comte France;46.465972;-0.8065;1500;;900;;;;;
+Pithiviers;Pithiviers France;48.173423;2.255849;;;;;;;;
+Verdun;Verdun France;49.1598764;5.3844231;;;;;;;;
+Granville;Granville France;48.837579;-1.597302;;;1200;1300;Ouest France;;;https://www.ouest-france.fr/economie/retraites/direct-dans-la-manche-les-manifestants-sopposent-a-la-reforme-des-retraites-pour-la-neuvieme-fois-0df0a6d4-c955-11ed-b7b6-abe6ad8a6310
+Ussel;Ussel France;45.548905;2.313835;;;;;;;;
+Beaune;Beaune France;47.0260;4.840004;500;;500;;;;;
+Lille;Lille France;50.62925;3.057256;75000;intersyndicale;12500;;;;;
+Quimper;Quimper France;47.997542;-4.097899;12000;CFDT;12000;15000;Le Télégramme;;;
+Dijon;Dijon France;47.322047;5.04148;25000;;8000;;;;;https://www.bienpublic.com/social/2023/03/23/nouvelle-journee-de-mobilsation-en-cote-d-or-a-quoi-s-attendre-ce-jeudi-23-mars
+Valenciennes;Valenciennes France;50.357113;3.518332;;;3100;3000;La Voix du Nord;;;https://www.lavoixdunord.fr/1306549/article/2023-03-23/direct-retraites-neuvieme-journee-de-mobilisation-contre-la-reforme-adoptee-au
+Morlaix;Morlaix France;48.577613;-3.828228;10000;intersyndicale;6000;8000;Le Télégramme;;;https://www.letelegramme.fr/economie/retraites/blocages-manifestations-le-point-sur-la-mobilisation-en-bretagne-23-03-2023-13302756.php
+La Roche-sur-Yon;La Roche-sur-Yon France;46.670511;-1.426442;18000;intersyndicale;6800;;;;;
+Laval;Laval France;48.0785146;-0.7669906;10000;intersyndicale;5200;;;;;
+Montauban;Montauban France;44.0221252;1.3529599;28000;intersyndicale;3400;;;;;
+Calais;Calais France;50.95129;1.858686;;;;5500;La Voix du Nord;;;https://www.lavoixdunord.fr/1306549/article/2023-03-23/direct-retraites-neuvieme-journee-de-mobilisation-contre-la-reforme-adoptee-au
+Douai;Douai France;50.367874;3.080602;;;;3000;La Voix du Nord;;;https://www.lavoixdunord.fr/1306549/article/2023-03-23/direct-retraites-neuvieme-journee-de-mobilisation-contre-la-reforme-adoptee-au
+Bourg-en-Bresse;Bourg-en-Bresse France;46.204939;5.225621;;;;;;;;
+Ancenis;Ancenis France;47.365464;-1.177491;;;3700;;;;;
+Montluçon;Montluçon France;46.3415466;2.6019912;9000;;4000;5000;La Montagne;;;https://www.lamontagne.fr/clermont-ferrand-63000/actualites/neuvieme-journee-de-mobilisations-contre-la-reforme-des-retraites-suivez-notre-direct_14282499/
+Figeac;Figeac France;44.608288;2.032871;;;;;;;;
+Compiègne;Compiègne France;49.417816;2.826145;;;;;;;;
+Digne-les-Bains;Digne-les-Bains France;44.092193;6.235976;;;;;;;;
+Moulins;Moulins France;46.568059;3.334417;6000;;;;;;;https://www.lamontagne.fr/clermont-ferrand-63000/actualites/neuvieme-journee-de-mobilisations-contre-la-reforme-des-retraites-suivez-notre-direct_14282499/
+Cahors;Cahors France;44.4475229;1.441989;;;;;;;;
+Castres;Castres France;43.606214;2.241295;8000;;3000;;La Dépêche;;;https://www.ladepeche.fr/2023/03/23/direct-reforme-des-retraites-9e-journee-de-mobilisation-les-actions-se-multiplient-partout-en-france-11082176.php
+Rodez;Rodez France;44.349389;2.575986;30000;intersyndicale;6500;;;;;https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/direct-reforme-des-retraites-les-mobilisations-a-toulouse-et-sa-region-2738394.html
+Saint-Malo;Saint-Malo France;48.649337;-2.025674;;;;3000;Ouest France;;;https://www.ouest-france.fr/economie/retraites/greve-du-23-mars-des-milliers-de-manifestants-a-saint-malo-mobilisation-en-hausse-a25b1ed4-c96a-11ed-b7b6-abe6ad8a6310
+Vesoul;Vesoul France;47.619788;6.15428;;;;3000;Est Républicain;;;https://www.estrepublicain.fr/social/2023/03/23/reforme-des-retraites-environ-3-000-manifestants-a-vesoul-lors-de-la-9e-mobilisation-qui-a-ete-emaillee-d-incidents
+Lisieux;Lisieux France;49.145922;0.227849;;;;;;;;
+Bergerac;Bergerac France;44.853806;0.483392;;;;;;;;
+Chateaubriant;Chateaubriant France;47.720948;-1.3762239;;;1600;3000;Ouest France;;;
+Laon;Laon France;49.564133;3.61989;;;;;;;;
+Aurillac;Aurillac France;44.930953;2.444997;3000;;2600;;;;;
+Fougères;Fougères France;48.3515609;-1.204626;;;;;;;;
+Thouars;Thouars France;46.976154;-0.216803;;;;1200;Ouest France;;;https://www.ouest-france.fr/economie/retraites/video-manifestation-du-23-mars-1-200-personnes-mobilisees-a-thouars-189108c0-2f3e-4356-866b-2cda1c1a017c
+Gien;Gien France;47.6374513;2.7371902;;;;;;;;
+Mamoudzou;Mamoudzou France;-12.78064;45.2326964;;;;;;;;
+Troyes;Troyes France;48.2924465;4.041115;4200;intersyndicale;3800;;;;;
+Dunkerque;Dunkerque France;51.0343684;2.3767763;10000;intersyndicale;;;;;;
+Nevers;Nevers France;46.990896;3.162845;;;;2800;Journal du Centre;;;https://www.lejdc.fr/nevers-58000/actualites/vivez-en-direct-avec-nous-la-neuvieme-journee-de-mobilisation-contre-la-reforme-des-retraites-a-nevers_14282541/
+Cholet;Cholet France;47.059407;-0.879787;4000;;4000;;;;;
+Auxerre;Auxerre France;47.798202;3.573781;;;;;;;;
+Saint-Denis, La Réunion;Saint-Denis, La Réunion France;-20.8906596;55.4550536;;;;;;;;
+Saumur;Saumur France;47.260135;-0.080893;;;2100;;;;;
+Saint-Gaudens;Saint-Gaudens France;43.106895;0.7237629999999999;3000;;1600;;La Gazette du Comminges;;;https://www.ladepeche.fr/2023/03/23/reforme-des-retraites-plus-de-2-000-manifestants-dans-le-cortege-de-saint-gaudens-11083630.php
+Saint-Dizier;Saint-Dizier France;48.637692;4.947418;;;;;;;;
+Chaumont;Chaumont France;48.113748;5.1392559;;;;;;;;
+Epernay;Epernay France;49.043411;3.956242;2400;;1600;;;;;https://www.francebleu.fr/infos/economie-social/en-images-la-mobilisation-contre-la-reforme-des-retraites-se-poursuit-a-reims-3961710
+Langres;Langres France;47.86683;5.334297;;;;;;;;
+Eu;Eu France;50.04887;1.419597;;;;;;;;
+Marmande;Marmande France;44.500484;0.159869;;;;;;;;
+Sarlat;Sarlat France;44.890891;1.217292;;;;;;;;
+Vitré;Vitré France;48.124746;-1.21543;;;;;;;;
+Aix-en-Provence;Aix-en-Provence France;43.529742;5.447427;;;;;;;;
+Basse-Terre, Guadeloupe;Basse-Terre, Guadeloupe France;15.9965719;-61.7317215;;;;;;;;
+Fort-de-France, Martinique;Fort-de-France, Martinique France;14.6060576;-61.069884;;;;;;;;
+Cayenne, Guyane;Cayenne, Guyane France;4.9379774;-52.3354386;;;;;;;;
+Abbeville;Abbeville France;50.105467;1.836833;2000;intersyndicale;1200;;Courrier picard;;;https://www.courrier-picard.fr/id398915/article/2023-03-23/retraites-suivez-en-direct-les-actions-contre-la-reforme-en-picardie-jeudi-23
+Vannes;Vannes France;47.658236;-2.760847;7000;CGT;3900;;;;;
+La Rochelle;La Rochelle France;46.160329;-1.151139;15000;;6000;4700;Sud Ouest;;;
+Lons-le-Saunier;Lons-le-Saunier France;46.671361;5.550796;5000;CGT;2200;;;;;
+Chartres;Chartres France;48.443854;1.489012;;;;7000;L'Echo Républicain;;;https://www.lechorepublicain.fr/dreux-28100/actualites/reformes-des-retraites-suivez-la-sixeme-journee-de-mobilisation-en-eure-et-loir_14272874/
+Saint-Jean-de-Maurienne;Saint-Jean-de-Maurienne France;45.275403;6.344886;1400;;800;1500;Le Dauphiné Libéré;;;"https://www.ledauphine.com/social/2023/03/23/manifs-en-pays-de-savoie-route-bolquee-a-publier
+https://www.francebleu.fr/infos/economie-social/direct-reforme-des-retraites-barrage-filtrant-sur-la-voie-rapide-urbaine-de-chambery-suivez-le-direct-2627430"
+Ajaccio;Ajaccio France;41.919229;8.738635;;;;;;;;
+Bastia;Bastia France;42.697283;9.450881;;;;4000;Corse Matin;;;https://www.corsematin.com/diaporamas/reforme-des-retraites-forte-mobilisation-a-bastia-avec-pres-de-4000-manifestants-2150
+Albi;Albi France;43.9250853;2.1486413;22000;intersyndicale;6000;;La Dépêche du Midi;;;https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/direct-reforme-des-retraites-les-mobilisations-a-toulouse-et-sa-region-2738394.html
+Soissons;Soissons France;49.376636;3.32342;;;;350;L'Union;;;https://www.lunion.fr/id468035/article/2023-03-23/plus-dunecentaine-demanifestants-deux-ronds-points-de-soissons-contre-la-reforme#
+Chateau-Thierry;Chateau-Thierry France;49.0459869;3.40262;;;;;;;;
+Maubeuge;Maubeuge France;50.280228;3.9674;;;;2500;La Voix du Nord;;;https://www.lavoixdunord.fr/1306640/article/2023-03-23/contre-la-reforme-des-retraites-2-500-personnes-maubeuge-250-fourmies
+Thouars;Thouars France;46.976154;-0.216803;;;;;;;;
+Foix;Foix France;42.964127;1.605232;18000;intersyndicale;5000;;;;;https://www.ladepeche.fr/2023/03/23/les-manifestants-ne-relachent-pas-la-pression-a-foix-11083981.php
+Saint-Omer;Saint-Omer France;50.750115;2.252208;;;;;;;;
+Bressuire;Bressuire France;46.84246;-0.492866;;;;;;;;
+Ploërmel;Ploërmel France;47.929254;-2.396846;;;;;;;;
+Dax;Dax France;43.708608;-1.051945;;;;;;;;
+Pont-Audemer;Pont-Audemer France;49.354883;0.5142989;;;;;;;;
+Mayenne;Mayenne France;48.303949;-0.618462;;;;;;;;
+Le Creusot;Le Creusot France;46.80535099999999;4.4278;;;;;;;;
+Montceau-les-Mines;Montceau-les-Mines France;46.67413;4.362979;;;;;;;;
+Thonon-les-Bains;Thonon-les-Bains France;46.373565;6.477635;;;;;;;;
+Montbard;Montbard France;47.624329;4.337495;;;;;;;;
+Vienne;Vienne France;45.524875;4.872931;5000;;2600;;;;;https://www.ledauphine.com/social/2023/03/23/reforme-des-retraites-plusieurs-blocages-pres-du-campus-de-grenoble
+La Tour du Pin;La Tour du Pin France;45.564026;5.445327;;;;;;;;
+Cluny;Cluny France;46.428968;4.664555;;;;250;Le JSL;;;https://www.lejsl.com/social/2023/03/23/diaporama-pres-de-250-manifestants-pour-s-opposer-a-la-reforme-des-retraites
