@@ -23,3 +23,7 @@ Les données ont été scrapées à partir du recensement des mobilisations effe
 -	[Journée du 15 mars 2023](https://www.lemonde.fr/les-decodeurs/article/2023/03/15/la-carte-des-manifestations-du-mercredi-15-mars-contre-la-reforme-des-retraites_6165543_4355770.html)
 
 - [Journée du 23 mars 2023](https://www.lemonde.fr/les-decodeurs/article/2023/03/23/la-carte-des-manifestations-du-jeudi-23-mars-contre-la-reforme-des-retraites_6166655_4355770.html)
+
+- [Journée du 28 mars 2023](https://www.lemonde.fr/les-decodeurs/article/2023/03/28/la-carte-des-manifestations-du-mardi-28-mars-contre-la-reforme-des-retraites_6167245_4355770.html)
+
+- [Journée du 6 avril 2023](https://www.lemonde.fr/les-decodeurs/article/2023/04/06/la-carte-des-manifestations-du-jeudi-6-avril-contre-la-reforme-des-retraites_6168492_4355770.html)
