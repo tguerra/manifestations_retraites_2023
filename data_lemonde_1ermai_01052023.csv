@@ -1,0 +1,205 @@
+﻿Ville;pays;adresse_full;participants_syndicats;source_syndicats;participants_police;participants_presse;source_presse;participants_occurrence;description_libre;lien
+Paris;France;Paris France;550000;CGT;112000;;;94000;;
+Marseille;France;Marseille France;130000;intersyndicale;11000;;;;;
+Toulouse;France;Toulouse France;100000;intersyndicale;13500;;;;;
+Bordeaux;France;Bordeaux France;100000;CGT;12000;25000;Sud-Ouest;;;https://www.sudouest.fr/economie/social/greve/manifestation-du-1er-mai-a-bordeaux-deja-plusieurs-milliers-de-manifestants-au-depart-14986927.php
+Nantes;France;Nantes France;80000;intersyndicale;17500;;;;;https://www.ouest-france.fr/economie/retraites/direct-suivez-la-manifestation-du-1er-mai-en-loire-atlantique-488ef362-e5d5-11ed-a421-d61b66109416
+Lille;France;Lille France;12000;intersyndicale;7000;8500;La Voix du Nord;;;https://www.lavoixdunord.fr/1322281/article/2023-05-01/direct-retraites-arras-bethune-calais-les-premieres-manifestations-partiront-9-h
+Grenoble;France;Grenoble France;38000;intersyndicale;15000;;;;;https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/direct-manifestation-du-1er-mai-les-syndicats-esperent-une-journee-historique-suivez-la-mobilisation-a-grenoble-2764174.html
+Lyon;France;Lyon France;45000;CGT;17000;;;;;
+Clermont-Ferrand;France;Clermont-Ferrand France;25000;intersyndicale;14000;;;;;
+Le Havre;France;Le Havre France;18000;CGT;4800;17500;Ouest France;;;https://www.ouest-france.fr/economie/retraites/direct-suivez-les-manifestations-du-1er-mai-a-caen-le-havre-lisieux-vire-et-falaise-1ef37602-e75d-11ed-8c27-046e988bea0b
+Caen;France;Caen France;40000;CGT;16300;;;;;https://www.francebleu.fr/infos/economie-social/les-manifestations-du-1er-mai-ont-debute-3143263
+Limoges;France;Limoges France;40000;CGT;16000;;;;;https://www.francetvinfo.fr/economie/retraite/reforme-des-retraites/direct-mobilisation-du-1er-mai-une-fete-du-travail-annoncee-comme-historique-contre-la-reforme-des-retraites_5801279.html
+Montpellier;France;Montpellier France;18000;intersyndicale;8000;;;;;https://www.midilibre.fr/2023/05/01/manifestation-du-1er-mai-la-foule-afflue-place-albert-1er-a-montpellier-suivez-la-mobilisation-en-direct-11168437.php
+Brest;France;Brest France;33000;intersyndicale;15000;20000;Le Télégramme;;;https://www.letelegramme.fr/finistere/brest/direct-manifestation-du-1er-mai-suivez-la-mobilisation-a-brest-01-05-2023-13328488.php
+Nancy;France;Nancy France;10000;CGT;4500;;;;;https://www.francebleu.fr/infos/economie-social/plusieurs-milliers-de-personnes-dans-les-rues-de-nancy-a-l-occasion-de-la-manifestation-du-1er-mai-8159541
+Nice;France;Nice France;20000;intersyndicale;2300;;;;;
+Rennes;France;Rennes France;15000;intersyndicale;7850;;;;;
+Saint-Etienne;France;Saint-Etienne France;20000;intersyndicale;7200;;;;;https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/loire/saint-etienne/manifestation-du-1er-mai-a-saint-etienne-une-ambiance-festive-2764330.html
+Orléans;France;Orléans France;20000;CGT;7400;;;;;https://www.larep.fr/orleans-45000/actualites/quatre-manifestations-dans-le-loiret-ce-lundi-1er-mai_14302601/
+Strasbourg;France;Strasbourg France;20000;intersyndicale;8500;;;;;https://www.dna.fr/social/2023/05/01/1er-mai-le-bas-rhin-se-mobilise
+Toulon;France;Toulon France;20000;intersyndicale;7200;;;;;
+Avignon;France;Avignon France;20000;intersyndicale;4000;;;;;
+Nîmes;France;Nîmes France;25000;intersyndicale;4600;;;;;https://www.midilibre.fr/2023/05/01/en-direct-dans-le-defile-du-1er-mai-a-nimes-11168381.php
+Rodez;France;Rodez France;5000;intersyndicale;1100;;;;;
+Montauban;France;Montauban France;5000;CGT;;;;;;
+Pau;France;Pau France;15000;;8000;;;;;https://www.sudouest.fr/economie/social/greve/direct-manifestations-du-1er-mai-les-premiers-corteges-vont-s-elancer-suivez-les-temps-forts-de-la-journee-14986988.php
+Dijon;France;Dijon France;15000;CGT;7000;;;;;
+Bayonne;France;Bayonne France;30000;intersyndicale;7000;;;;;https://www.sudouest.fr/economie/social/greve/direct-manifestations-du-1er-mai-les-premiers-corteges-vont-s-elancer-suivez-les-temps-forts-de-la-journee-14986988.php
+Tarbes;France;Tarbes France;8000;intersyndicale;5000;;;;;
+Rouen;France;Rouen France;15000;intersyndicale;8500;;;;;https://www.ouest-france.fr/economie/retraites/direct-suivez-les-manifestations-du-1er-mai-a-caen-le-havre-lisieux-vire-et-falaise-1ef37602-e75d-11ed-8c27-046e988bea0b
+Albi;France;Albi France;12000;intersyndicale;2600;;;;;https://www.ladepeche.fr/2023/05/01/manifestations-du-1er-mai-a-albi-un-defile-unitaire-dope-par-la-mobilisation-contre-les-retraites-11168864.php#:~:text=La%20f%C3%AAte%20du%20travail%20a,contre%20la%20r%C3%A9forme%20des%20retraites.
+Perpignan;France;Perpignan France;10000;FO;5000;;;;;
+Valence;France;Valence France;4300;CFDT;4000;;;;;
+Poitiers;France;Poitiers France;13000;intersyndicale;4400;;;;;
+Amiens;France;Amiens France;7000;CFDT;4000;;;;5000 pour l'UNSA/FSU;https://www.francebleu.fr/infos/societe/reforme-des-retraites-suivez-la-manifestation-du-premier-mai-a-amiens-9404500
+Le Mans;France;Le Mans France;;;;5000;Ouest France;;;https://www.ouest-france.fr/economie/retraites/video-manifestation-du-1er-mai-les-percussions-animent-le-defile-au-mans-0ff7f664-3e66-4205-abb6-5545bbfeb72c#:~:text=Ce%20lundi%201er%20mai%202023,fois%20par%20les%20percussionnistes%20locaux.
+La Roche-sur-Yon;France;La Roche-sur-Yon France;9000;CGT;3500;;;;;
+Foix;France;Foix France;12000;intersyndicale;2800;;;;;https://www.ladepeche.fr/2023/05/01/ariege-un-1er-mai-qui-sest-fondu-avec-la-lutte-contre-la-reforme-des-retraites-11168701.php
+Béziers;France;Béziers France;15000;intersyndicale;4200;;;;;
+Brive;France;Brive France;;;2300;2300;La Montagne;;;https://www.lamontagne.fr/brive-la-gaillarde-19100/actualites/2-300-personnes-dans-la-rue-a-brive-pour-le-1er-mai-decouvrez-les-meilleures-images-de-la-manifestation_14302636/
+Angers;France;Angers France;12000;intersyndicale;;;;;;
+Chambéry;France;Chambéry France;5000;intersyndicale;5000;;;;;
+Angoulême;France;Angoulême France;8000;intersyndicale;;;;;;
+Le Puy-en-Velay;France;Le Puy-en-Velay France;8000;intersyndicale;3200;;;;;
+Périgueux;France;Périgueux France;6000;intersyndicale;4100;4000;Sud-Ouest;;;
+La Rochelle;France;La Rochelle France;7000;intersyndicale;4000;4300;Sud-Ouest;;;https://www.sudouest.fr/economie/social/greve/direct-manifestations-du-1er-mai-les-premiers-corteges-vont-s-elancer-suivez-les-temps-forts-de-la-journee-14986988.php
+Metz;France;Metz France;10000;intersyndicale;8000;;;;;
+Saint-Nazaire;France;Saint-Nazaire France;;;15000;12000;Ouest France;;;https://www.ouest-france.fr/economie/retraites/direct-suivez-la-manifestation-du-1er-mai-en-loire-atlantique-488ef362-e5d5-11ed-a421-d61b66109416
+Beauvais;France;Beauvais France;;;;;;;;
+Tours;France;Tours France;10000;intersyndicale;7600;;;;;https://www.francebleu.fr/infos/societe/tours-7-600-personnes-dans-la-manifestation-du-1er-mai-selon-la-police-1233396
+Lorient;France;Lorient France;25000;CGT;7800;10000;;;;https://www.letelegramme.fr/economie/retraites/1er-mai-le-point-sur-la-mobilisation-en-bretagne-01-05-2023-13328509.php
+Quimper;France;Quimper France;20000;intersyndicale;15000;;;;;https://www.ouest-france.fr/economie/retraites/direct-manifestations-du-1er-mai-des-rassemblements-a-brest-quimper-et-ailleurs-en-finistere-c0762464-e74b-11ed-8c27-046e988bea0b
+Besançon;France;Besançon France;10500;CGT;5600;;;;;https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/reforme-des-retraites-les-manifestations-du-1er-mai-en-franche-comte-2764290.html
+Charleville-Mézières;France;Charleville-Mézières France;4500;intersyndicale;;;;;;https://www.lardennais.fr/id480171/article/2023-05-01/1er-mai-les-manifestants-se-rassemblent-charleville-mezieres-les-casseroles
+Blois;France;Blois, France;;;4000;;;;;
+Saint-Brieuc;France;Saint-Brieuc France;;;5500;5700;Ouest France / Le Télégramme;;Entre 5000 et 6000 selon les renseignements territoriaux;https://www.ouest-france.fr/economie/retraites/direct-suivez-les-manifs-du-1er-mai-a-lamballe-guingamp-saint-brieuc-lannion-paimpol-et-dinan-ba739252-e757-11ed-8c27-046e988bea0b
+Châteauroux;France;Châteauroux France;5000;intersyndicale;4000;5000;France Bleu Berry;;;https://www.francebleu.fr/infos/politique/manifestations-du-1er-mai-pres-de-5-000-personnes-defilent-a-chateauroux-2350428
+Niort;France;Niort France;;;4000;;;;;
+Lannion;France;Lannion France;9000;intersyndicale;;;;;Entre 8000 et 10000 selon l'intersyndicale;https://www.ouest-france.fr/economie/retraites/direct-suivez-les-manifs-du-1er-mai-a-lamballe-guingamp-saint-brieuc-lannion-paimpol-et-dinan-ba739252-e757-11ed-8c27-046e988bea0b
+Boulogne-sur-Mer;France;Boulogne-sur-Mer France;3000;intersyndicale;1200;;;;;https://www.lavoixdunord.fr/1322314/article/2023-05-01/defile-du-1er-mai-boulogne-environ-3-000-personnes-dans-la-rue
+Evreux;France;Evreux France;4000;intersyndicale;2000;;;;;https://actu.fr/societe/manifestation-du-1er-mai-plusieurs-milliers-de-manifestants-a-evreux_59347230.html
+Morlaix;France;Morlaix France;;;;4000;Le Télégramme;;;https://www.letelegramme.fr/finistere/morlaix/a-morlaix-le-defile-du-1er-mai-s-est-elance-vers-le-centre-ville-01-05-2023-13328541.php
+Laval;France;Laval France;8000;intersyndicale;4700;6000;Ouest France;;;https://www.ouest-france.fr/economie/retraites/direct-suivez-la-manifestation-du-1er-mai-a-laval-contre-la-reforme-des-retraites-91a35ee6-e68c-11ed-adcb-99204cede4ed#:~:text=R%C3%A9forme%20des%20retraites-,%C3%80%20Laval%2C%20revivez%20la%20manifestation%20%C2%AB%20exceptionnelle%20%C2%BB%20du%201er%2D,de%20la%20Tr%C3%A9moille%20%C3%A0%20Laval.
+Dunkerque;France;Dunkerque France;;;;2000;La Voix du Nord;;;
+Mulhouse;France;Mulhouse France;6000;;3500;;;;;https://www.dna.fr/social/2023/05/01/manifestation-du-1er-mai-a-mulhouse-le-cortege-s-elance-place-de-la-bourse
+Epinal;France;Epinal France;4000;intersyndicale;2000;;;;;
+Annonay;France;Annonay France;4000;CGT;;;;;;https://www.francebleu.fr/infos/economie-social/manifestation-du-premier-mai-philippe-martinez-defile-a-aubenas-6881215
+Montluçon;France;Montluçon France;;;;3000;La Montagne;;;https://www.lamontagne.fr/montlucon-03100/actualites/face-au-silence-de-macron-nous-defilons-pour-nous-faire-entendre-pres-de-3-000-manifestants-a-montlucon_14302641/
+Bourges;France;Bourges France;9000;intersyndicale;2600;;;;;https://www.leberry.fr/bourges-18000/actualites/l-intersyndicale-veut-frapper-un-grand-coup-avec-les-manifestations-du-1er-mai-dans-le-cher-suivez-le-direct_14302586/
+Bourgoin-Jallieu;France;Bourgoin-Jallieu France;4000;intersyndicale;2000;;;;;https://www.francebleu.fr/infos/societe/retraites-manifestations-transports-a-quoi-faut-il-s-attendre-en-isere-pour-la-journee-du-1er-mai-9570479
+Auch;France;Auch France;;;;;;;;
+Castres;France;Castres France;;;;;;;;
+Belfort;France;Belfort France;5000;intersyndicale;3000;2000;L'Est Républicain;;;https://www.estrepublicain.fr/social/2023/05/01/reforme-des-retraites-suivez-les-mobilisations-du-1er-mai-partout-en-franche-comte
+Vannes;France;Vannes France;;;;8000;Le Télégramme;;;https://www.letelegramme.fr/economie/retraites/1er-mai-le-point-sur-la-mobilisation-en-bretagne-01-05-2023-13328509.php
+Narbonne;France;Narbonne France;;;;2500;L'Indépendant;;;https://www.lindependant.fr/2023/05/01/la-manifestation-du-1er-mai-a-narbonne-en-images-11168821.php
+Reims;France;Reims France;3000;intersyndicale;2400;;;;;https://www.lunion.fr/id480192/article/2023-05-01/reims-10-000-personnes-la-manif-du-1er-mai
+Carcassonne;France;Carcassonne France;3500;intersyndicale;3300;;;;;https://www.lindependant.fr/2023/05/01/direct-manifestation-du-1er-mai-a-carcassonne-le-cortege-sest-elance-de-la-place-des-jacobins-11168498.php#:~:text=Suivez%20la%20manifestation%20carcassonnaise%20du,la%20journ%C3%A9e%20internationale%20des%20travailleurs.
+Montélimar;France;Montélimar France;4000;CGT;;;;;;
+Annecy;France;Annecy France;2500;;2000;;;;;
+Agen;France;Agen France;4500;intersyndicale;4000;;;;;
+Arles;France;Arles France;5000;CGT;1400;;;;;https://actu.fr/provence-alpes-cote-d-azur/marseille_13055/direct-1er-mai-manifestation-blocages-suivez-la-situation-a-marseille_59336696.html
+Saintes;France;Saintes France;5000;intersyndicale;2850;3500;Sud-Ouest;;;https://www.sudouest.fr/economie/social/greve/manifestation-du-1er-mai-a-saintes-un-cortege-nourri-et-offensif-14989906.php
+Mâcon;France;Mâcon France;4000;intersyndicale;2000;;;;;https://www.lejsl.com/social/2023/05/01/saone-et-loire-la-manifestation-du-1er-mai-se-met-en-place-a-chalon
+Sète;France;Sète France;4500;intersyndicale;2200;;;;;https://www.midilibre.fr/2023/05/01/manifestation-du-1er-mai-le-defile-selancera-sur-sete-a-partir-de-10-h-30-suivez-notre-direct-11168385.php
+Moulins;France;Moulins France;2000;intersyndicale;1600;;;;;
+Mont-de-Marsan;France;Mont-de-Marsan France;;;;;;;;
+Arras;France;Arras France;3000;intersyndicale;2200;;;;;https://www.lavoixdunord.fr/1322304/article/2023-05-01/manifestation-du-1er-mai-arras-le-cortege-s-est-elance-depuis-la-place-foch
+Aubenas;France;Aubenas France;3500;CGT;2350;;;;;
+Gap;France;Gap France;4000;intersyndicale;2680;;;;;
+Vichy;France;Vichy France;3000;intersyndicale;1600;;;;;
+Draguignan;France;Draguignan France;1700;intersyndicale;1200;;;;;
+Lons-le-Saunier;France;Lons-le-Saunier France;2000;;2000;;;;;https://www.leprogres.fr/social/2023/05/01/a-saint-claude-dole-et-lons-les-manifestants-mobilises-pour-un-1er-mai-qu-ils-esperent-historique
+Vienne;France;Vienne France;;;;;;;;
+Dinan;France;Dinan France;;;2700;;Le Télégramme;;;https://www.letelegramme.fr/economie/retraites/1er-mai-le-point-sur-la-mobilisation-en-bretagne-01-05-2023-13328509.php
+Troyes;France;Troyes France;;;;2000;L'Est éclair;;;
+Guéret;France;Guéret France;5000;intersyndicale;4000;;;;;
+Montbéliard;France;Montbéliard France;2400;;1900;;;;;https://www.francebleu.fr/infos/societe/1er-mai-les-manifestations-debutent-a-belfort-montbeliard-et-lure-2027311
+Tulle;France;Tulle France;;;1700;;;;;
+Albertville;France;Albertville France;2000;intersyndicale;1700;;;;;
+Vierzon;France;Vierzon France;1400;inersyndicale;1400;;;;;https://www.leberry.fr/bourges-18000/actualites/l-intersyndicale-veut-frapper-un-grand-coup-avec-les-manifestations-du-1er-mai-dans-le-cher-suivez-le-direct_14302586/
+Cholet;France;Cholet France;2700;intersyndicale;2600;;;;;
+Aurillac;France;Aurillac France;3000;intersyndicale;2700;;;;;
+Saint-Gaudens;France;Saint-Gaudens France;3067;intersyndicale;;;;;;
+Vendôme;France;Vendôme France;1200;CGT;800;;;;;https://www.lanouvellerepublique.fr/vendome/manifestation-du-1er-mai-de-800-a-1-200-personnes-a-vendome#:~:text=Environ%20800%20personnes%20selon%20la,1er%20mai%202023%20%C3%A0%20Vend%C3%B4me.&text=Contre%20la%20r%C3%A9forme%20des%20retraites,traditionnelle%20F%C3%AAte%20du%201er%20mai.
+Mende;France;Mende France;1500;intersyndicale;;;;;;
+Carhaix;France;Carhaix France;2700;CGT;2400;2700;Le Télégramme;;;https://www.letelegramme.fr/economie/retraites/1er-mai-le-point-sur-la-mobilisation-en-bretagne-01-05-2023-13328509.php
+Epernay;France;Epernay France;900;CGT;800;;;;;
+Privas;France;Privas France;1500;CGT;;;;;;https://www.francebleu.fr/infos/economie-social/manifestation-du-premier-mai-philippe-martinez-defile-a-aubenas-6881215
+Alençon;France;Alençon France;2900;;1800;2000;L'Orne Hebdo;;;https://actu.fr/normandie/alencon_61001/manifestations-du-1er-mai-a-alencon-suivez-la-journee-en-direct_59338622.html#:~:text=Ce%20qu'il%20faut%20retenir,du%201er%20mai%20%C3%A0%20Alen%C3%A7on&text=Les%20revendications%20portaient%20sur%20la,le%20partage%20%C3%A9quitable%20des%20richesses.
+Saint-Lô;France;Saint-Lô France;;;1300;1500;Ouest France;;;https://www.ouest-france.fr/economie/retraites/direct-1er-mai-a-cherbourg-et-saint-lo-des-rassemblements-festifs-prevus-ce-matin-eb627fdc-e5c1-11ed-9310-58b428937a6b
+Guingamp;France;Guingamp France;3000;intersyndicale;2700;;;;;https://www.ouest-france.fr/economie/retraites/direct-suivez-les-manifs-du-1er-mai-a-lamballe-guingamp-saint-brieuc-lannion-paimpol-et-dinan-ba739252-e757-11ed-8c27-046e988bea0b
+Coutances;France;Coutances France;;;;1700;Ouest France;;;https://www.ouest-france.fr/economie/retraites/direct-1er-mai-a-cherbourg-et-saint-lo-des-rassemblements-festifs-prevus-ce-matin-eb627fdc-e5c1-11ed-9310-58b428937a6b
+Abbeville;France;Abbeville France;;;;1000;Le journal d'Abbeville;;;
+Châlons-en-Champagne;France;Châlons-en-Champagne France;;;;1200;L'Union;;;https://www.lunion.fr/id480196/article/2023-05-01/environ-1200-personnes-defilent-dans-les-rues-de-chalons-en-champagne
+Fontenay-le-Comte;France;Fontenay-le-Comte France;1100;;1100;;;;;
+Argentan;France;Argentan France;;;;;;;;
+Saint-Jean-de-Maurienne;France;Saint-Jean-de-Maurienne France;;;;;;;;
+Bar-le-Duc;France;Bar-le-Duc France;;;;;;;;
+Beaune;France;Beaune France;600;CGT;;;;;;
+Chalon-sur-Saône;France;Chalon-sur-Saône France;5000;;3100;;;;;https://www.lejsl.com/social/2023/05/01/saone-et-loire-la-manifestation-du-1er-mai-se-met-en-place-a-chalon
+Cherbourg;France;Cherbourg France;13000;intersyndicale;5800;10000;La Presse de la Manche;;;https://actu.fr/normandie/cherbourg-en-cotentin_50129/en-direct-1er-mai-suivez-la-mobilisation-a-cherbourg_59337842.html
+Quimperlé;France;Quimperlé France;;;;2800;Le Télégramme;;;https://www.letelegramme.fr/economie/retraites/1er-mai-le-point-sur-la-mobilisation-en-bretagne-01-05-2023-13328509.php
+Roanne;France;Roanne France;8000;;3200;5000;Midi Libre;;;https://www.midilibre.fr/2023/05/01/ales-5-000-manifestants-ont-pris-part-a-la-manifestation-du-1er-mai-11168871.php#:~:text=La%20manifestation%20contre%20la%20r%C3%A9forme,%C3%A0%20la%20r%C3%A9forme%20des%20retraites.
+Alès;France;Alès France;;;4000;;;;;https://www.midilibre.fr/2023/05/01/en-direct-dans-le-defile-du-1er-mai-a-nimes-11168381.php
+Pontivy;France;Pontivy France;3000;intersyndicale;2100;;;;;
+Dieppe;France;Dieppe France;2000;CGT;1600;;;;;https://actu.fr/normandie/dieppe_76217/1er-mai-a-dieppe-une-manifestation-historique-en-ville_59346518.html
+Rochefort;France;Rochefort France;;;;2400;Sud Ouest;;;https://www.sudouest.fr/economie/social/greve/manifestation-du-1er-mai-a-rochefort-du-jamais-vu-pour-la-fete-du-travail-14991044.php
+Saint-Quentin;France;Saint-Quentin France;2000;;1300;;;;;
+Dole;France;Dole France;;;;2000;Le Progrès;;;https://www.leprogres.fr/social/2023/05/01/a-saint-claude-dole-et-lons-les-manifestants-mobilises-pour-un-1er-mai-qu-ils-esperent-historique
+Montargis;France;Montargis France;;;2000;1300;La République du Centre;;;
+Sens;France;Sens France;;;;1200;L'Yonne Républicaine;;;https://www.lyonne.fr/auxerre-89000/actualites/suivez-en-direct-les-manifestations-du-1er-mai-dans-l-yonne_14302251/
+Châtellerault;France;Châtellerault France;;;;;;;;
+Cambrai;France;Cambrai France;;;;1200;La Voix du Nord;;;https://www.lavoixdunord.fr/1322281/article/2023-05-01/direct-retraites-arras-bethune-calais-les-premieres-manifestations-partiront-9-h
+Saint-Pierre, La Réunion;France;Saint-Pierre, La Réunion France;2250;intersyndicale;1100;;;;;
+Bagnols-sur-Cèze;France;Bagnols-sur-Cèze France;;;2000;;;;;https://www.midilibre.fr/2023/05/01/en-direct-dans-le-defile-du-1er-mai-a-nimes-11168381.php
+Colmar;France;Colmar, France;;;;;;;;
+Romorantin;France;Romorantin France;;;;;;;;
+Cannes;France;Cannes France;1000;intersyndicale;550;;;;;
+Pithiviers;France;Pithiviers France;;;400;230;La République du Centre;;;
+Verdun;France;Verdun France;;;;;;;;
+Granville;France;Granville France;;;1600;;;;;https://www.ouest-france.fr/economie/retraites/direct-1er-mai-a-cherbourg-et-saint-lo-des-rassemblements-festifs-prevus-ce-matin-eb627fdc-e5c1-11ed-9310-58b428937a6b
+Ussel;France;Ussel France;;;;;;;;
+Valenciennes;France;Valenciennes France;;;;4000;La Voix du Nord;;;https://www.lavoixdunord.fr/1322310/article/2023-05-01/valenciennes-une-place-d-armes-noire-de-monde-pour-la-manif-du-1er-mai
+Calais;France;Calais France;3500;intersyndicale;;;;;;
+Douai;France;Douai France;;;;1000;La Voix du Nord;;;https://www.lavoixdunord.fr/1322281/article/2023-05-01/direct-retraites-arras-bethune-calais-les-premieres-manifestations-partiront-9-h
+Bourg-en-Bresse;France;Bourg-en-Bresse France;;;;3000;Le Progrès;;;https://www.leprogres.fr/social/2023/05/01/1er-mai-six-manifestations-des-10-heures-ce-lundi-dans-le-departement
+Ancenis;France;Ancenis France;;;3550;3500;Ouest France;;;"Le Télégramme			https://www.letelegramme.fr/economie/retraites/1er-mai-le-point-sur-la-mobilisation-en-bretagne-01-05-2023-13328509.php"
+Figeac;France;Figeac France;3000;;2200;;;;;
+Compiègne;France;Compiègne France;;;;;;;;
+Digne-les-Bains;France;Digne-les-Bains France;;;;1000;La Provence;;;https://www.laprovence.com/article/region/4654053658058615/direct-laprovence-direct-1er-mai-jusqua-1-5-million-de-manifestants-attendus-par-les-syndicats-les-corteges-provencaux-sur-le-point-de-selancer
+Cahors;France;Cahors France;1800;intersyndicale;1800;;;;;
+Saint-Malo;France;Saint-Malo France;;;;;;;;
+Vesoul;France;Vesoul France;;;;;;;;
+Lisieux;France;Lisieux France;1400;intersyndicale;1300;;;;;
+Bergerac;France;Bergerac France;2000;intersyndicale;1500;1500;Sud Ouest;;;
+Chateaubriant;France;Chateaubriant France;;;2000;1500;Ouest France;;;https://www.ouest-france.fr/economie/retraites/direct-suivez-la-manifestation-du-1er-mai-en-loire-atlantique-488ef362-e5d5-11ed-a421-d61b66109416
+Laon;France;Laon France;;;;;;;;
+Fougères;France;Fougères France;2000;;1200;;Le Télégramme;;;https://www.letelegramme.fr/economie/retraites/1er-mai-le-point-sur-la-mobilisation-en-bretagne-01-05-2023-13328509.php
+Thouars;France;Thouars France;;;;;;;;
+Gien;France;Gien France;600;intersyndicale;730;;;;;
+Mamoudzou;France;Mamoudzou France;;;;;;;;
+Nevers;France;Nevers France;;;;;;;;
+Auxerre;France;Auxerre France;4000;intersyndicale;2800;3000;L'Yonne Républicaine;;;https://www.lyonne.fr/auxerre-89000/actualites/suivez-en-direct-les-manifestations-du-1er-mai-dans-l-yonne_14302251/
+Saint-Denis, La Réunion;France;Saint-Denis, La Réunion France;3000;intersyndicale;1100;;;;;
+Saumur;France;Saumur France;3000;intersyndicale;1600;2000;Le Courrier de l'Ouest;;;https://www.ouest-france.fr/economie/retraites/direct-1er-mai-les-manifestations-a-angers-cholet-saumur-et-segre-804c0096-e671-11ed-9c4f-b04b1dc0276d
+Saint-Dizier;France;Saint-Dizier France;;;;;;;;
+Chaumont;France;Chaumont France;;;;;;;;
+Langres;France;Langres France;;;;;;;;
+Eu;France;Eu France;;;;;;;;
+Marmande;France;Marmande France;;;;;;;;
+Sarlat;France;Sarlat France;1300;;1100;1200;Sud-Ouest;;;https://www.sudouest.fr/economie/social/greve/direct-manifestations-du-1er-mai-les-premiers-corteges-vont-s-elancer-suivez-les-temps-forts-de-la-journee-14986988.php
+Vitré;France;Vitré France;;;;500;Ouest France;;;
+Aix-en-Provence;France;Aix-en-Provence France;7000;;850;;;;;https://www.laprovence.com/article/region/4654053658058615/direct-laprovence-direct-1er-mai-jusqua-1-5-million-de-manifestants-attendus-par-les-syndicats-les-corteges-provencaux-sur-le-point-de-selancer
+Basse-Terre, Guadeloupe;France;Basse-Terre, Guadeloupe France;;;;;;;;
+Fort-de-France, Martinique;France;Fort-de-France, Martinique France;;;;;;;;
+Cayenne, Guyane;France;Cayenne, Guyane France;;;;400;La 1ère;;;https://la1ere.francetvinfo.fr/guyane/1er-mai-un-defile-unitaire-des-syndicats-qui-rassemble-environ-400-manifestants-1391210.html
+Chartres;France;Chartres France;;;;;;;;
+Ajaccio;France;Ajaccio France;600;;470;;;;;https://www.corsematin.com/articles/videos-manifestation-du-1er-mai-mobilisation-a-ajaccio-et-bastia-141243
+Bastia;France;Bastia France;;;;1000;Corse Matin;;;
+Soissons;France;Soissons France;1000;intersyndicale;;;;;;
+Chateau-Thierry;France;Chateau-Thierry France;;;;;;;;
+Maubeuge;France;Maubeuge France;;;;1000;La Voix du Nord;;;https://www.lavoixdunord.fr/1322281/article/2023-05-01/direct-retraites-arras-bethune-calais-les-premieres-manifestations-partiront-9-h
+Thouars;France;Thouars France;;;;;;;;
+Saint-Omer;France;Saint-Omer France;;;;1500;La Voix du Nord;;;https://www.lavoixdunord.fr/1322281/article/2023-05-01/direct-retraites-arras-bethune-calais-les-premieres-manifestations-partiront-9-h
+Bressuire;France;Bressuire France;;;;;;;;
+Ploërmel;France;Ploërmel France;;;;2000;Ouest France;;;"Le Télégramme			https://www.letelegramme.fr/economie/retraites/1er-mai-le-point-sur-la-mobilisation-en-bretagne-01-05-2023-13328509.php"
+Dax;France;Dax France;5000;intersyndicale;3600;;;;;https://www.sudouest.fr/economie/social/greve/direct-manifestations-du-1er-mai-les-premiers-corteges-vont-s-elancer-suivez-les-temps-forts-de-la-journee-14986988.php
+Pont-Audemer;France;Pont-Audemer France;;;;;;;;
+Mayenne;France;Mayenne France;;;;;;;;
+Le Creusot;France;Le Creusot France;900;intersyndicale;800;;;;;https://www.lejsl.com/social/2023/05/01/saone-et-loire-la-manifestation-du-1er-mai-se-met-en-place-a-chalon#dea5bd77-9311-4736-a56a-ff5a34dd9cfd
+Montceau-les-Mines;France;Montceau-les-Mines France;;;;;;;;
+Thonon-les-Bains;France;Thonon-les-Bains France;1600;intersyndicale;900;;;;;https://www.ledauphine.com/social/2023/05/01/manifs-du-1er-mai-plus-d-une-dizaine-de-defiles-prevus-en-pays-de-savoie#87fcda55-9cbb-4081-b324-d562de3abb49
+Montbard;France;Montbard France;1500;CGT;;;;;;
+La Tour du Pin;France;La Tour du Pin France;;;;;;;;
+Cluny;France;Cluny France;;;;;;;;
+Clermont l'Hérault;France;Clermont l'Hérault France;;;;;;;;
+Paimpol;France;Paimpol France;;;;1000;Ouest-France;;;
+Les Sables-d'Olonne;France;Les Sables-d'Olonne France;1100;intersyndicale;1100;;;;;
+Challans;France;Challans France;1300;intersyndicale;;;;;;
+Millau;France;Millau France;2500;intersyndicale;;;;;;
+Villefranche-de-Rouergue;France;Villefranche-de-Rouergue France;1500;intersyndicale;;;;;;
+Decazeville;France;Decazeville France;1550;intersyndicale;;;;;;
+Redon;France;Redon France;4000;intersyndicale;2500;;;;;
+Flers;France;Flers France;3000;;1050;;;;;
