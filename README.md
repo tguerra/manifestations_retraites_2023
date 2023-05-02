@@ -2,7 +2,7 @@
 
 Données sur les mobilisations contre la réforme des retraites de 2023.
 
-Les bases de données (fichier _data_) permettent d'apprécier pour chaque localité rensignée le nombre de manifestants d'après les chiffres communiqués par les organisations syndicales, la police ou la presse.
+Les bases de données (dossier [data](data/)) permettent d'apprécier pour chaque localité rensignée le nombre de manifestants d'après les chiffres communiqués par les organisations syndicales, la police ou la presse.
 
 Les données ont été scrapées à partir du recensement des mobilisations effectué par le journal *Le Monde*.
 
